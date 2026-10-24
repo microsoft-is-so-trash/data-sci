@@ -1,0 +1,22 @@
+cột,ý nghĩa,xử lý,kiểu,% thiếu
+id,OpenAlex work ID (W…),Khoá chính; khử trùng khi đọc,str,0.0
+doi,DOI chữ thường,Thiếu 10%: giữ; khử trùng 5 cặp,str,10.2
+title,Tiêu đề,Không thiếu,str,0.0
+year,Năm xuất bản,2015–2026; 2026 chưa đủ năm,int16,0.0
+date,Ngày xuất bản,Ép datetime; 01-01 coi là chỉ có năm,datetime64[us],0.0
+type,article / review / conference-paper,Category,category,0.0
+language,Mã ngôn ngữ ISO-639,Thiếu nhiều ở 2025–2026 (MAR): không dùng để lọc,str,29.0
+cites,Số trích dẫn,"Ngoại lai thật: giữ, dùng log",int32,0.0
+fwci,Field-Weighted Citation Impact,Chuẩn hoá theo năm và lĩnh vực,float64,0.0
+ref_count,Số tài liệu tham khảo,,int32,0.0
+is_oa,Truy cập mở,,bool,0.0
+abstract,Tóm tắt ghép từ inverted index,Thiếu: pairwise deletion,str,10.4
+keywords,Danh sách từ khoá OpenAlex,Dùng cho ⑪ ⑫,object,0.0
+n_authors / n_institutions / n_countries,Đếm từ authorships,0 khi không có thông tin,int16,0.0
+countries,Mã ISO-2 của tác giả,Không có: loại khỏi bản đồ/network,object,0.0
+is_international,Có ≥ 2 quốc gia,Đặc trưng mới,bool,0.0
+log_cit,log1p(cites),Đặc trưng mới,float64,0.0
+citations_per_year,"cites / max(tuổi, 1)",Đặc trưng mới,float64,0.0
+age_years,Tuổi bài tính đến ngày tải (≥ 1),Đặc trưng mới,float64,0.0
+period,2015–2022 / 2023–2026,Đặc trưng mới,category,0.0
+continent,Châu lục của tác giả,Nhiều châu lục / Không rõ,str,0.0

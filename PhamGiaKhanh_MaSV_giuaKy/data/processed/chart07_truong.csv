@@ -1,0 +1,401 @@
+inst,so_bai,trich_dan,id,display_name,country_code,continent
+I100205273,18,240,I100205273,Universidad Técnica Particular de Loja,EC,Nam Mỹ
+I100930933,10,23,I100930933,University College Dublin,IE,Châu Âu
+I102149020,12,146,I102149020,University of North Carolina at Charlotte,US,Bắc Mỹ
+I10232997,42,44,I10232997,L. N. Gumilyov Eurasian National University,KZ,Châu Á
+I102607778,3,0,I102607778,Cleveland State University,US,Bắc Mỹ
+I102669525,9,136,I102669525,Pelita Harapan University,ID,Châu Á
+I102893293,50,1354,I102893293,State University of Malang,ID,Châu Á
+I103031861,17,142,I103031861,Plekhanov Russian University of Economics,RU,Châu Âu
+I103356709,25,151,I103356709,Obuda University,HU,Châu Âu
+I106118109,14,120,I106118109,Eötvös Loránd University,HU,Châu Âu
+I106165777,24,489,I106165777,University of Central Florida,US,Bắc Mỹ
+I106296451,21,696,I106296451,University of Foggia,IT,Châu Âu
+I106778892,18,611,I106778892,Princess Nourah bint Abdulrahman University,SA,Châu Á
+I107640659,13,30,I107640659,South Ural State University,RU,Châu Âu
+I107720978,20,431,I107720978,Ain Shams University,EG,Châu Phi
+I108321963,19,293,I108321963,Tambov State University,RU,Châu Âu
+I109689652,34,396,I109689652,FPT University,VN,Châu Á
+I109935558,13,152,I109935558,Ningbo University,CN,Châu Á
+I1102219,6,0,I1102219,Tarumanagara University,ID,Châu Á
+I111088046,15,162,I111088046,Boston University,US,Bắc Mỹ
+I111112146,9,16,I111112146,Tallinn University of Technology,EE,Châu Âu
+I112982808,16,14,I112982808,Universiti Sains Islam Malaysia,MY,Châu Á
+I114017466,39,1107,I114017466,University of Technology Sydney,AU,Châu Đại Dương
+I114027177,13,85,I114027177,University of North Carolina at Chapel Hill,US,Bắc Mỹ
+I114499477,16,110,I114499477,University of Fort Hare,ZA,Châu Phi
+I114972647,43,509,I114972647,University of Jordan,JO,Châu Á
+I116953780,12,5,I116953780,Tongji University,CN,Châu Á
+I11701301,19,209,I11701301,Griffith University,AU,Châu Đại Dương
+I118501908,42,444,I118501908,National Research University Higher School of Economics,RU,Châu Âu
+I118574674,11,130,I118574674,Jiangsu Normal University,CN,Châu Á
+I11892038,22,14,I11892038,University of Nigeria,NG,Châu Phi
+I118946981,22,701,I118946981,Universidad de las Fuerzas Armadas ESPE,EC,Nam Mỹ
+I119744171,33,643,I119744171,Higher Colleges of Technology,AE,Châu Á
+I119896790,32,54,I119896790,Sebelas Maret University,ID,Châu Á
+I120691247,7,7,I120691247,FernUniversität in Hagen,DE,Châu Âu
+I12079687,20,1144,I12079687,Edith Cowan University,AU,Châu Đại Dương
+I120825670,13,12,I120825670,Yunnan Normal University,CN,Châu Á
+I121243025,26,40,I121243025,"International Islamic University, Islamabad",PK,Châu Á
+I121748325,20,418,I121748325,Universidad Complutense de Madrid,ES,Châu Âu
+I12176630,14,4,I12176630,Tanjungpura University,ID,Châu Á
+I121980950,17,220,I121980950,Utah State University,US,Bắc Mỹ
+I123534392,23,956,I123534392,University of North Texas,US,Bắc Mỹ
+I12553626,18,180,I12553626,University of Zululand,ZA,Châu Phi
+I125839683,13,181,I125839683,Beijing Institute of Technology,CN,Châu Á
+I126231945,11,22,I126231945,Queen's University Belfast,GB,Châu Âu
+I126307644,14,804,I126307644,University of Iowa,US,Bắc Mỹ
+I126477371,23,32,I126477371,Mohammed V University,MA,Châu Phi
+I12649496,36,30,I12649496,INTI International University,MY,Châu Á
+I126527374,33,267,I126527374,Peoples' Friendship University of Russia,RU,Châu Âu
+I127670440,23,21,I127670440,Bahauddin Zakariya University,PK,Châu Á
+I127859547,47,199,I127859547,Yogyakarta State University,ID,Châu Á
+I12833781,10,21,I12833781,Lampung University,ID,Châu Á
+I129604602,31,879,I129604602,The University of Sydney,AU,Châu Đại Dương
+I130194489,17,1085,I130194489,University of Alicante,ES,Châu Âu
+I130218214,69,258,I130218214,Indonesia University of Education,ID,Châu Á
+I130343225,28,309,I130343225,Universiti Putra Malaysia,MY,Châu Á
+I130701444,10,160,I130701444,Georgia Institute of Technology,US,Bắc Mỹ
+I130769515,26,227,I130769515,Pennsylvania State University,US,Bắc Mỹ
+I130828816,31,1543,I130828816,University of Leeds,GB,Châu Âu
+I1311157440,15,126,I1311157440,Peruvian University of Applied Sciences,PE,Nam Mỹ
+I131729948,20,26,I131729948,University of Salerno,IT,Châu Âu
+I133731052,16,603,I133731052,University of Helsinki,FI,Châu Âu
+I133743585,29,1170,I133743585,Anadolu University,TR,Châu Á
+I133771110,22,623,I133771110,University of Cape Coast,GH,Châu Phi
+I134161618,19,627,I134161618,National Taiwan Normal University,TW,Châu Á
+I134542131,28,72,I134542131,University of Ilorin,NG,Châu Phi
+I135120706,12,26,I135120706,University of Baghdad,IQ,Châu Á
+I135237710,32,514,I135237710,Zhejiang Normal University,CN,Châu Á
+I137967721,13,6,I137967721,Mapúa University,PH,Châu Á
+I138006243,16,345,I138006243,University of Arizona,US,Bắc Mỹ
+I138690464,13,110,I138690464,University of Ghana,GH,Châu Phi
+I139322472,63,764,I139322472,Universiti Sains Malaysia,MY,Châu Á
+I139759216,15,45,I139759216,Beijing University of Posts and Telecommunications,CN,Châu Á
+I140942544,14,7,I140942544,Tadulako University,ID,Châu Á
+I141568987,20,1321,I141568987,Hong Kong Baptist University,HK,Châu Á
+I142024983,27,1018,I142024983,Prince Sultan University,SA,Châu Á
+I142108993,19,172,I142108993,Southwest University,CN,Châu Á
+I142204992,19,23,I142204992,University of Lahore,PK,Châu Á
+I14243506,37,536,I14243506,Hong Kong Polytechnic University,HK,Châu Á
+I142608572,35,759,I142608572,Prince Sattam Bin Abdulaziz University,SA,Châu Á
+I143923087,32,73,I143923087,Sultan Idris Education University,MY,Châu Á
+I145722265,8,56,I145722265,University of Thessaly,GR,Châu Âu
+I146367977,17,358,I146367977,Applied Science Private University,JO,Châu Á
+I146416000,9,207,I146416000,University of Kansas,US,Bắc Mỹ
+I146655781,15,815,I146655781,University of Liverpool,GB,Châu Âu
+I147280213,11,273,I147280213,Universidad Veracruzana,MX,Bắc Mỹ
+I147791725,17,23,I147791725,Universitas Jambi,ID,Châu Á
+I148128674,15,292,I148128674,University of Shanghai for Science and Technology,CN,Châu Á
+I148158369,28,14,I148158369,State University of Semarang,ID,Châu Á
+I149704539,32,1394,I149704539,Deakin University,AU,Châu Đại Dương
+I152031979,14,267,I152031979,Nanjing Normal University,CN,Châu Á
+I152269853,8,0,I152269853,Qilu University of Technology,CN,Châu Á
+I153976015,18,356,I153976015,University of Ljubljana,SI,Châu Âu
+I154130895,16,155,I154130895,University of Auckland,NZ,Châu Đại Dương
+I155028946,17,70,I155028946,Tribhuvan University,NP,Châu Á
+I155660961,16,452,I155660961,University of Turku,FI,Châu Âu
+I157725225,23,1191,I157725225,University of Illinois Urbana-Champaign,US,Bắc Mỹ
+I157943965,12,308,I157943965,Holon Institute of Technology,IL,Châu Á
+I158708052,10,139,I158708052,Chulalongkorn University,TH,Châu Á
+I159247623,18,40,I159247623,Mansoura University,EG,Châu Phi
+I159948400,13,31,I159948400,Jinan University,CN,Châu Á
+I16076960,25,407,I16076960,COMSATS University Islamabad,PK,Châu Á
+I160968435,25,21,I160968435,University of Sargodha,PK,Châu Á
+I16097986,22,297,I16097986,Universitat de València,ES,Châu Âu
+I161593684,17,1519,I161593684,Stockholm University,SE,Châu Âu
+I161913731,29,663,I161913731,Al Ain University,AE,Châu Á
+I162148367,10,122,I162148367,Pontificia Universidad Católica de Chile,CL,Nam Mỹ
+I163151501,13,298,I163151501,Hangzhou Normal University,CN,Châu Á
+I165143802,16,1118,I165143802,The University of Queensland,AU,Châu Đại Dương
+I165390105,75,1756,I165390105,University of South Africa,ZA,Châu Phi
+I165733156,19,703,I165733156,University of Georgia,US,Bắc Mỹ
+I165779595,34,601,I165779595,The University of Melbourne,AU,Châu Đại Dương
+I166073570,62,313,I166073570,Binus University,ID,Châu Á
+I166337079,23,480,I166337079,Queen Mary University of London,GB,Châu Âu
+I168180000,10,17,I168180000,University of Mataram,ID,Châu Á
+I169108374,23,357,I169108374,University of the Basque Country,ES,Châu Âu
+I170215575,11,1,I170215575,National University of Defense Technology,CN,Châu Á
+I170239107,17,885,I170239107,University of South Australia,AU,Châu Đại Dương
+I170486558,12,55,I170486558,Universitat Pompeu Fabra,ES,Châu Âu
+I170726198,15,37,I170726198,University of Novi Sad,RS,Châu Âu
+I17120543,29,11,I17120543,National University of Modern Languages,PK,Châu Á
+I171241948,18,30,I171241948,Moscow Power Engineering Institute,RU,Châu Âu
+I172324550,12,104,I172324550,Gomal University,PK,Châu Á
+I172675005,43,903,I172675005,Nanyang Technological University,SG,Châu Á
+I172780181,44,306,I172780181,University of the Punjab,PK,Châu Á
+I173029219,16,341,I173029219,Multimedia University,MY,Châu Á
+I173304897,28,1014,I173304897,Universidad de Granada,ES,Châu Âu
+I173664879,10,7,I173664879,Universidad Autónoma de Baja California,MX,Bắc Mỹ
+I17389662,15,392,I17389662,University of Nicosia,CY,Châu Á
+I174731842,28,163,I174731842,Islamia University of Bahawalpur,PK,Châu Á
+I17533244,26,917,I17533244,An-Najah National University,PS,Châu Á
+I175532246,15,516,I175532246,University of Eastern Finland,FI,Châu Âu
+I177055848,15,41,I177055848,University of Brawijaya,ID,Châu Á
+I177181097,28,86,I177181097,Durban University of Technology,ZA,Châu Phi
+I177233841,28,100,I177233841,"Vietnam National University, Hanoi",VN,Châu Á
+I177725633,65,4383,I177725633,Chinese University of Hong Kong,HK,Châu Á
+I178450904,18,908,I178450904,Universidad Nacional de Educación a Distancia,ES,Châu Âu
+I18014758,15,673,I18014758,Simon Fraser University,CA,Bắc Mỹ
+I180726961,17,83,I180726961,Shenzhen University,CN,Châu Á
+I181343428,20,77,I181343428,University of Zagreb,HR,Châu Âu
+I181355716,19,32,I181355716,Allama Iqbal Open University,PK,Châu Á
+I182000528,26,381,I182000528,Ajman University,AE,Châu Á
+I182083151,14,241,I182083151,Universidad Rey Juan Carlos,ES,Châu Âu
+I183816158,15,43,I183816158,Zhaoqing University,CN,Châu Á
+I183935753,19,555,I183935753,King's College London,GB,Châu Âu
+I184999862,17,357,I184999862,Universidad de Salamanca,ES,Châu Âu
+I185163786,37,735,I185163786,King Abdulaziz University,SA,Châu Á
+I185261750,29,702,I185261750,University of Toronto,CA,Bắc Mỹ
+I185571130,25,44,I185571130,Al-Farabi Kazakh National University,KZ,Châu Á
+I187400657,19,272,I187400657,South China Normal University,CN,Châu Á
+I188771183,21,68,I188771183,Iqra University,PK,Châu Á
+I189238007,28,111,I189238007,Taras Shevchenko National University of Kyiv,UA,Châu Âu
+I190082696,13,386,I190082696,Durham University,GB,Châu Âu
+I191972202,26,133,I191972202,Amity University,IN,Châu Á
+I192365124,11,10,I192365124,Sri Lanka Institute of Information Technology,LK,Châu Á
+I192513696,23,406,I192513696,National University of San Marcos,PE,Nam Mỹ
+I192878625,13,288,I192878625,Plovdiv University,BG,Châu Âu
+I193181351,20,322,I193181351,Universidad de Guadalajara,MX,Bắc Mỹ
+I193555791,13,253,I193555791,Delta State University,NG,Châu Phi
+I193621155,20,97,I193621155,Indonesia Open University,ID,Châu Á
+I195024194,24,477,I195024194,Riphah International University,PK,Châu Á
+I196375840,14,109,I196375840,Universidad Autónoma de Sinaloa,MX,Bắc Mỹ
+I196699116,12,8,I196699116,Wuhan University of Technology,CN,Châu Á
+I196829312,18,620,I196829312,La Trobe University,AU,Châu Đại Dương
+I19880235,20,160,I19880235,Lomonosov Moscow State University,RU,Châu Âu
+I199693650,20,106,I199693650,Umm al-Qura University,SA,Châu Á
+I200606013,10,27,I200606013,Daffodil International University,BD,Châu Á
+I200769079,19,692,I200769079,Hong Kong University of Science and Technology,HK,Châu Á
+I200777214,14,234,I200777214,National and Kapodistrian University of Athens,GR,Châu Âu
+I201726411,37,49,I201726411,United Arab Emirates University,AE,Châu Á
+I20231570,16,865,I20231570,Peking University,CN,Châu Á
+I202483615,25,137,I202483615,National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”,UA,Châu Âu
+I202539009,13,71,I202539009,Industrial University of Ho Chi Minh City,VN,Châu Á
+I203089679,35,50,I203089679,State University of Medan,ID,Châu Á
+I204136569,24,549,I204136569,The Open University,GB,Châu Âu
+I204585392,7,252,I204585392,Usak University,TR,Châu Á
+I204778367,16,79,I204778367,Norwegian University of Science and Technology,NO,Châu Âu
+I204824540,25,735,I204824540,University of Wollongong,AU,Châu Đại Dương
+I204983213,11,48,I204983213,Harbin Institute of Technology,CN,Châu Á
+I205640436,18,278,I205640436,Curtin University,AU,Châu Đại Dương
+I205746353,15,146,I205746353,University of Dhaka,BD,Châu Á
+I207227095,23,18,I207227095,Nnamdi Azikiwe University,NG,Châu Phi
+I208086522,17,32,I208086522,National University of Life and Environmental Sciences of Ukraine,UA,Châu Âu
+I211738395,27,70,I211738395,Financial University,RU,Châu Âu
+I21203515,31,149,I21203515,Kazan Federal University,RU,Châu Âu
+I212220629,14,33,I212220629,Peter the Great St. Petersburg Polytechnic University,RU,Châu Âu
+I219193219,26,464,I219193219,Purdue University West Lafayette,US,Bắc Mỹ
+I230495080,11,90,I230495080,University of Limerick,IE,Châu Âu
+I231025917,13,34,I231025917,Hellenic Open University,GR,Châu Âu
+I23758234,55,50,I23758234,Universitas Negeri Surabaya,ID,Châu Á
+I238302431,8,367,I238302431,Galileo University,GT,Bắc Mỹ
+I240042149,6,7,I240042149,Abdelmalek Essaâdi University,MA,Châu Phi
+I24027795,51,1080,I24027795,University of Johannesburg,ZA,Châu Phi
+I2405095,23,77,I2405095,University of Guayaquil,EC,Nam Mỹ
+I240666556,29,447,I240666556,Imam Mohammad ibn Saud Islamic University,SA,Châu Á
+I241749,28,1129,I241749,University of Cambridge,GB,Châu Âu
+I24185976,19,140,I24185976,Sichuan University,CN,Châu Á
+I242692392,13,30,I242692392,Bulacan State University,PH,Châu Á
+I244572783,31,263,I244572783,Symbiosis International University,IN,Châu Á
+I245308123,34,270,I245308123,Universitas Negeri Padang,ID,Châu Á
+I246982481,5,20,I246982481,North Eastern Mindanao State University,PH,Châu Á
+I25254941,47,1589,I25254941,Beijing Normal University,CN,Châu Á
+I25822123,16,146,I25822123,Sumy State University,UA,Châu Âu
+I2608206482,12,150,I2608206482,Universitas Ahmad Dahlan,ID,Châu Á
+I26999989,18,95,I26999989,University of the Free State,ZA,Châu Phi
+I271457894,14,82,I271457894,Universidad San Ignacio de Loyola,PE,Nam Mỹ
+I271888150,13,6,I271888150,Sriwijaya University,ID,Châu Á
+I27765905,21,57,I27765905,North-West University,ZA,Châu Phi
+I27837315,13,126,I27837315,University of Michigan,US,Bắc Mỹ
+I2800164252,14,51,I2800164252,Karaganda Buketov University,KZ,Châu Á
+I28022161,35,577,I28022161,King Saud University,SA,Châu Á
+I2802656227,45,552,I2802656227,Universidad César Vallejo,PE,Nam Mỹ
+I28046988,13,772,I28046988,Kwame Nkrumah University of Science and Technology,GH,Châu Phi
+I28407311,22,129,I28407311,University of Manchester,GB,Châu Âu
+I29891158,26,162,I29891158,University of Sharjah,AE,Châu Á
+I3020190299,25,0,I3020190299,Universitas Islam Negeri Maulana Malik Ibrahim,ID,Châu Á
+I3020440027,17,15,I3020440027,University of Tyumen,RU,Châu Âu
+I311071055,28,0,I311071055,Grand Canyon University,US,Bắc Mỹ
+I3121153395,16,71,I3121153395,West University of Timişoara,RO,Châu Âu
+I312958679,12,129,I312958679,National University of Science and Technology,ZW,Châu Phi
+I3129917895,8,78,I3129917895,Universidad Nacional del Callao,PE,Nam Mỹ
+I3130590570,12,26,I3130590570,Universidad Nacional de San Agustin de Arequipa,PE,Nam Mỹ
+I3130814776,34,57,I3130814776,University of Okara,PK,Châu Á
+I3130915990,14,4,I3130915990,Al Zawiya University,LY,Châu Phi
+I3131162304,11,66,I3131162304,Manado State University,ID,Châu Á
+I3131389504,18,48,I3131389504,Muhammadiyah University of Surakarta,ID,Châu Á
+I3132561136,13,63,I3132561136,Universitas Indraprasta PGRI,ID,Châu Á
+I3132940433,8,112,I3132940433,Politecnica Salesiana University,EC,Nam Mỹ
+I3133194271,11,30,I3133194271,Universidad Estatal Península de Santa Elena,EC,Nam Mỹ
+I3133213403,28,81,I3133213403,Cebu Technological University,PH,Châu Á
+I3133421993,24,42,I3133421993,State University of Jakarta,ID,Châu Á
+I31746571,22,753,I31746571,UNSW Sydney,AU,Châu Đại Dương
+I33213144,26,1033,I33213144,University of Florida,US,Bắc Mỹ
+I33849332,69,1200,I33849332,University of Malaya,MY,Châu Á
+I35304288,11,5,I35304288,Universitas Halu Oleo,ID,Châu Á
+I36622005,15,15,I36622005,Petra University,JO,Châu Á
+I37461747,14,322,I37461747,Wuhan University,CN,Châu Á
+I37696226,14,77,I37696226,University of Maribor,SI,Châu Âu
+I37796252,17,848,I37796252,Beijing University of Technology,CN,Châu Á
+I389346,13,4,I389346,Isabela State University,PH,Châu Á
+I39586589,12,256,I39586589,Swansea University,GB,Châu Âu
+I3970730,33,75,I3970730,University of Calabar,NG,Châu Phi
+I4068193,17,60,I4068193,University of Belgrade,RS,Châu Âu
+I4092182,10,18,I4092182,Graz University of Technology,AT,Châu Âu
+I40963666,23,184,I40963666,Central China Normal University,CN,Châu Á
+I41461413,13,95,I41461413,Universiti Malaysia Sarawak,MY,Châu Á
+I4164984,27,78,I4164984,International Islamic University Malaysia,MY,Châu Á
+I4210086892,65,4631,I4210086892,Education University of Hong Kong,HK,Châu Á
+I4210087129,12,1,I4210087129,University of Muhammadiyah Mataram,ID,Châu Á
+I4210088717,10,15,I4210088717,University of the West Indies,TT,Bắc Mỹ
+I4210088963,37,523,I4210088963,University of Ha'il,SA,Châu Á
+I4210090124,15,7,I4210090124,Tecnológico Nacional de México,MX,Bắc Mỹ
+I4210090490,30,124,I4210090490,National University,PH,Châu Á
+I4210090826,19,54,I4210090826,Universitas Pendidikan Ganesha,ID,Châu Á
+I4210090927,56,135,I4210090927,Universidad Estatal de Milagro,EC,Nam Mỹ
+I4210096913,9,3,I4210096913,University of Singaperbangsa Karawang,ID,Châu Á
+I4210100043,20,47,I4210100043,Superior University,PK,Châu Á
+I4210104713,16,29,I4210104713,Ferghana State University,UZ,Châu Á
+I4210106404,11,250,I4210106404,Universidad Laica Eloy Alfaro de Manabí,EC,Nam Mỹ
+I4210106508,36,313,I4210106508,Borys Grinchenko Kyiv Metropolitan University,UA,Châu Âu
+I4210107659,17,91,I4210107659,Necmettin Erbakan University,TR,Châu Á
+I4210108513,16,15,I4210108513,Ternopil Volodymyr Hnatiuk National Pedagogical University,UA,Châu Âu
+I4210109232,9,14,I4210109232,Pampanga State University,PH,Châu Á
+I4210109238,8,6,I4210109238,University of Buraimi,OM,Châu Á
+I4210113907,7,10,I4210113907,Universitas Muhammadiyah Prof Dr Hamka,ID,Châu Á
+I4210119856,12,37,I4210119856,Université Sultan Moulay Slimane,MA,Châu Phi
+I4210120914,18,115,I4210120914,Western Mindanao State University,PH,Châu Á
+I4210123993,11,164,I4210123993,Van Lang University,VN,Châu Á
+I4210124507,22,20,I4210124507,Universitas Islam Negeri Raden Intan Lampung,ID,Châu Á
+I4210125507,12,46,I4210125507,Chouaib Doukkali University,MA,Châu Phi
+I4210128045,34,706,I4210128045,Abai Kazakh National Pedagogical University,KZ,Châu Á
+I4210132263,16,20,I4210132263,Vinnytsia Mykhailo Kotsiubynskyi State Pedagogical University,UA,Châu Âu
+I4210133958,29,47,I4210133958,Universidad Técnica de Manabí,EC,Nam Mỹ
+I4210135186,11,4,I4210135186,MIREA - Russian Technological University,RU,Châu Âu
+I4210136524,13,45,I4210136524,Universidad Nacional del Altiplano,PE,Nam Mỹ
+I4210137344,11,41,I4210137344,Escuela Superior Politécnica de Chimborazo,EC,Nam Mỹ
+I4210137904,18,41,I4210137904,Universitas Islam Negeri Sumatera Utara,ID,Châu Á
+I4210138650,88,286,I4210138650,Universiti Teknologi MARA System,MY,Châu Á
+I4210140760,12,185,I4210140760,Universidad Peruana Unión,PE,Nam Mỹ
+I4210142748,6,0,I4210142748,Shandong Academy of Sciences,CN,Châu Á
+I4210143508,7,4,I4210143508,International Information Technologies University,KZ,Châu Á
+I4210144088,8,31,I4210144088,Universidad Técnica de Ambato,EC,Nam Mỹ
+I4210148428,31,621,I4210148428,Universidad Tecnológica del Perú,PE,Nam Mỹ
+I4210157166,11,2,I4210157166,Universitas Pamulang,ID,Châu Á
+I4210158057,11,87,I4210158057,University of Technology and Applied Sciences - Al Mussanah,OM,Châu Á
+I4210163871,15,13,I4210163871,Zhetysu University named after Ilyas Zhansugurov,KZ,Châu Á
+I4387152582,16,87,I4387152582,A'Sharqiyah University,,Khác
+I4387154669,15,316,I4387154669,University of Skills Training and Entrepreneurial Development,GH,Châu Phi
+I4391012539,21,14,I4391012539,Thu Dau Mot University,,Khác
+I4405253677,10,8,I4405253677,"University of Technology and Applied Sciences, Muscat",OM,Châu Á
+I4405257690,13,30,I4405257690,Astana IT University,KZ,Châu Á
+I4405258755,23,118,I4405258755,University of Technology and Applied Sciences,OM,Châu Á
+I4405259444,11,1,I4405259444,Adelaide University,AU,Châu Đại Dương
+I4405262604,15,38,I4405262604,Universitas Nurul Jadid,ID,Châu Á
+I4405266539,14,7,I4405266539,VNU University of Education,VN,Châu Á
+I4405268964,6,2,I4405268964,Northeastern College,PH,Châu Á
+I4405271213,30,20,I4405271213,Guangdong University of Science and Technology,CN,Châu Á
+I4405277682,11,13,I4405277682,Sunway College,MY,Châu Á
+I4405278881,10,31,I4405278881,FEU Institute of Technology,PH,Châu Á
+I4429535,99,104,I4429535,State University of Makassar,ID,Châu Á
+I45129253,45,1553,I45129253,University College London,GB,Châu Âu
+I4576418,40,579,I4576418,University of Technology Malaysia,MY,Châu Á
+I4626487,43,1066,I4626487,King Faisal University,SA,Châu Á
+I47755478,14,88,I47755478,University of Bengkulu,ID,Châu Á
+I47818738,29,285,I47818738,Sultan Qaboos University,OM,Châu Á
+I49835588,25,333,I49835588,Macao Polytechnic University,MO,Châu Á
+I5100685,42,173,I5100685,University of Education,PK,Châu Á
+I5124864,6,118,I5124864,École Polytechnique Fédérale de Lausanne,CH,Châu Âu
+I52605992,19,260,I52605992,National Open University of Nigeria,NG,Châu Phi
+I55285296,20,155,I55285296,UCSI University,MY,Châu Á
+I55383850,16,82,I55383850,Tashkent State University of Economics,UZ,Châu Á
+I55732556,18,295,I55732556,Arizona State University,US,Bắc Mỹ
+I56475706,14,28,I56475706,Mid Sweden University,SE,Châu Âu
+I56590836,56,2645,I56590836,Monash University,AU,Châu Đại Dương
+I5681781,27,742,I5681781,The University of Adelaide,AU,Châu Đại Dương
+I57093077,15,492,I57093077,Swinburne University of Technology,AU,Châu Đại Dương
+I59225215,22,80,I59225215,Bahria University,PK,Châu Á
+I59361560,10,61,I59361560,Instituto Politécnico Nacional,MX,Bắc Mỹ
+I59433898,13,193,I59433898,Brunel University of London,GB,Châu Âu
+I5996616,13,302,I5996616,De La Salle University,PH,Châu Á
+I60053951,15,67,I60053951,Universitat Politècnica de València,ES,Châu Âu
+I60054993,9,378,I60054993,Graphic Era University,IN,Châu Á
+I60342839,26,1276,I60342839,Qatar University,QA,Châu Á
+I60858718,19,322,I60858718,University of Aveiro,PT,Châu Âu
+I61623833,10,23,I61623833,University of Agriculture Faisalabad,PK,Châu Á
+I61641377,18,702,I61641377,Universitatea Națională de Știință și Tehnologie Politehnica București,RO,Châu Âu
+I6469544,20,146,I6469544,City University of Macau,MO,Châu Á
+I64956957,8,12,I64956957,Aurel Vlaicu University of Arad,RO,Châu Âu
+I65285256,17,127,I65285256,Pontificia Universidad Católica del Perú,PE,Nam Mỹ
+I66867065,35,703,I66867065,East China Normal University,CN,Châu Á
+I68288478,19,102,I68288478,Sukkur IBA University,PK,Châu Á
+I68986083,11,78,I68986083,Northwest Normal University,CN,Châu Á
+I69050122,13,81,I69050122,Near East University,CY,Châu Á
+I69356397,29,604,I69356397,Xi’an Jiaotong-Liverpool University,CN,Châu Á
+I69552723,20,225,I69552723,University of Pretoria,ZA,Châu Phi
+I70983195,11,72,I70983195,Syracuse University,US,Bắc Mỹ
+I71422933,17,682,I71422933,Sheffield Hallam University,GB,Châu Âu
+I72227227,11,71,I72227227,Makerere University,UG,Châu Phi
+I72700828,10,24,I72700828,Open University Malaysia,MY,Châu Á
+I74885063,8,140,I74885063,Sharda University,IN,Châu Á
+I74899385,45,1658,I74899385,Central Queensland University,AU,Châu Đại Dương
+I75027704,12,13,I75027704,University of Tennessee at Knoxville,US,Bắc Mỹ
+I75092371,16,525,I75092371,University of Hradec Králové,CZ,Châu Âu
+I75955062,7,10,I75955062,Henan Normal University,CN,Châu Á
+I76130692,48,1712,I76130692,Zhejiang University,CN,Châu Á
+I76571253,21,308,I76571253,Imam Abdulrahman Bin Faisal University,SA,Châu Á
+I78577930,13,277,I78577930,Columbia University,US,Bắc Mỹ
+I7882870,22,239,I7882870,University of Glasgow,GB,Châu Âu
+I79238269,17,157,I79238269,Universidad de Sevilla,ES,Châu Âu
+I79619799,17,96,I79619799,University of Birmingham,GB,Châu Âu
+I80281795,16,505,I80281795,University of Otago,NZ,Châu Đại Dương
+I8033065,12,28,I8033065,University of Abuja,NG,Châu Phi
+I81365321,19,2846,I81365321,Old Dominion University,US,Bắc Mỹ
+I81556334,7,22,I81556334,Amrita Vishwa Vidyapeetham,IN,Châu Á
+I81605866,24,127,I81605866,Sidi Mohamed Ben Abdellah University,MA,Châu Phi
+I82724352,145,345,I82724352,Universiti Teknologi MARA,MY,Châu Á
+I82767444,25,184,I82767444,Universidad de Málaga,ES,Châu Âu
+I82828225,19,54,I82828225,King Mongkut's University of Technology North Bangkok,TH,Châu Á
+I82951845,30,618,I82951845,RMIT University,AU,Châu Đại Dương
+I82952536,35,306,I82952536,King Khalid University,SA,Châu Á
+I83863532,13,314,I83863532,Universidade Técnica do Porto,PT,Châu Âu
+I83909951,11,24,I83909951,Morgan State University,US,Bắc Mỹ
+I84339108,27,335,I84339108,Sunway University,MY,Châu Á
+I84475105,13,63,I84475105,Embry–Riddle Aeronautical University,US,Bắc Mỹ
+I859038795,9,239,I859038795,Virginia Tech,US,Bắc Mỹ
+I862893732,18,30,I862893732,Telkom University,ID,Châu Á
+I86519309,11,192,I86519309,The University of Texas at Austin,US,Bắc Mỹ
+I8679417,18,103,I8679417,Hong Kong Metropolitan University,HK,Châu Á
+I87216513,15,48,I87216513,Michigan State University,US,Bắc Mỹ
+I874055015,17,201,I874055015,Teesside University,GB,Châu Âu
+I87445476,9,339,I87445476,Xi'an Jiaotong University,CN,Châu Á
+I87482320,24,31,I87482320,University of Management and Technology,PK,Châu Á
+I8765205,15,38,I8765205,V. N. Karazin Kharkiv National University,UA,Châu Âu
+I88060688,18,39,I88060688,Universidad Politécnica de Madrid,ES,Châu Âu
+I881427289,11,94,I881427289,University of Gothenburg,SE,Châu Âu
+I882086214,9,333,I882086214,Kherson State University,UA,Châu Âu
+I88491126,30,1123,I88491126,Bucharest University of Economic Studies,RO,Châu Âu
+I885383172,67,528,I885383172,National University of Malaysia,MY,Châu Á
+I88830068,13,87,I88830068,Shaanxi Normal University,CN,Châu Á
+I889458895,47,6738,I889458895,University of Hong Kong,HK,Châu Á
+I891191580,11,28,I891191580,Aalborg University,DK,Châu Âu
+I899713450,13,4,I899713450,Air University,PK,Châu Á
+I900890020,6,4,I900890020,University of Palermo,IT,Châu Âu
+I902764099,14,35,I902764099,SEGi University,MY,Châu Á
+I91044093,33,306,I91044093,Zayed University,AE,Châu Á
+I91045830,37,345,I91045830,Texas A&M University,US,Bắc Mỹ
+I91807558,12,416,I91807558,National Cheng Kung University,TW,Châu Á
+I92579986,23,41,I92579986,Walter Sisulu University,ZA,Châu Phi
+I92961808,12,35,I92961808,Riau University,ID,Châu Á
+I94625822,18,192,I94625822,Universiti Utara Malaysia,MY,Châu Á
+I95023434,15,59,I95023434,University of KwaZulu-Natal,ZA,Châu Phi
+I96576516,42,1,I96576516,Rivers State University,NG,Châu Phi
+I96580804,6,20,I96580804,Universidad Pontificia Comillas,ES,Châu Âu
+I96916377,20,376,I96916377,Walailak University,TH,Châu Á
+I98381234,19,675,I98381234,University of Oulu,FI,Châu Âu
+I98461037,94,2431,I98461037,Tecnológico de Monterrey,MX,Bắc Mỹ
+I98677209,16,206,I98677209,University of Edinburgh,GB,Châu Âu
+I99065089,24,257,I99065089,Tsinghua University,CN,Châu Á
+I99165933,22,11,I99165933,University of Gujrat,PK,Châu Á
+I99297268,15,177,I99297268,University of Hassan II Casablanca,MA,Châu Phi

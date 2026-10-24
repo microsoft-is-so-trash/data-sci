@@ -1,0 +1,12 @@
+quy tắc,chỉ số,giá trị,kết quả,hành động (đã áp dụng)
+2. Đầy đủ,Thiếu DOI (%),10.2,—,Không xử lý; kiểm tra trùng dựa trên ID và DOI có sẵn
+2. Đầy đủ,Thiếu tóm tắt (%),10.4,ĐẠT,"Pairwise deletion; tóm tắt thiếu dồn vào conference-paper (MAR) nên phân tích chủ đề dùng keywords (99,9% có)"
+2. Đầy đủ,Không có quốc gia (%),26.6,ĐẠT,Giữ cho biểu đồ xu hướng; chỉ loại khỏi bản đồ và network; ghi vào giới hạn (MAR theo năm và ngôn ngữ)
+2. Đầy đủ,Thiếu nhãn ngôn ngữ (%),29.0,—,"Mới phát hiện: thiếu dồn vào 2025–2026 (MAR). Không dùng language để lọc; bỏ việc lọc tiếng Anh cho ⑫ vì keywords OpenAlex đã bằng tiếng Anh"
+2. Đầy đủ,Ngày chỉ có năm (ghi 01-01) (%),14.7,—,Mới phát hiện: loại khỏi chuỗi theo tháng ③; vẫn dùng cho số đếm theo năm
+3. Duy nhất,"Trùng ID khi tải (dòng, đã loại)",154,—,Đã loại khi đọc (giữ bản đầu tiên; mọi bản trùng giống hệt và nằm ở hai trang cursor liền nhau)
+3. Duy nhất,"Trùng DOI, khác ID (bài)",5,XEM LẠI,"Đã xử lý: drop_duplicates theo DOI, giữ bản nhiều trích dẫn hơn, rồi bản có tóm tắt và nhãn ngôn ngữ → 23.540 bài"
+4. Hợp lệ,Ngày xuất bản sau ngày tải (bài),5,—,Giữ (bài in press); năm vẫn trong miền hợp lệ
+6. Đại diện,Ngôn ngữ khác tiếng Anh đã xác định (%),6.6,—,"Thay cho chỉ số cũ 'không phải tiếng Anh 35,7%' (chỉ số cũ gộp cả bài thiếu nhãn)"
+6. Đại diện,"Bài năm 2026, chưa đủ năm (%)",42.8,—,"Đã kiểm tra là tăng trưởng thật (~930 bài/tháng so với ~500 năm 2025); loại khỏi YoY/CAGR, vẽ nét đứt ở ①"
+7. Ngoại lai,Trích dẫn > 5 (Q3 + 1.5·IQR) (%),13.9,—,"Giữ (top 10 đều đúng chủ đề); dùng log1p, so sánh bằng trung vị và FWCI"

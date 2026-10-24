@@ -1,0 +1,12 @@
+biến thể,count,OpenAlex hiểu là,% so với A
+A – từ khoá rời,33952,get works where title-abstract has (artificial intelligence higher education),100.0
+B' – A + loại tài liệu,27551,"get works where title-abstract has (artificial intelligence higher education)
+  and type is ([article](article) or [conference-paper](conference-paper) or [review](review))",81.1
+C – article + tiếng Anh,15120,"get works where language is [English](en)
+  and title-abstract has (artificial intelligence higher education)
+  and type is [article](article)",44.5
+G – cụm từ chính xác,21284,"get works where title-abstract has (stemmed ""artificial intelligence"" ""higher education"")
+  and type is ([article](article) or [conference-paper](conference-paper) or [review](review))",62.7
+F – topic + (HE OR university),23870,"get works where topic is (T14414)
+  and title-abstract has (stemmed ""higher education"" OR university)
+  and type is ([article](article) or [conference-paper](conference-paper) or [review](review))",70.3

@@ -1,0 +1,7 @@
+quy tắc,chỉ số,giá trị,kết quả,hành động (Ngày 3)
+2. Đầy đủ,Thiếu DOI (%),10.2,—,Không xử lý; kiểm tra trùng chỉ dựa trên ID và DOI có sẵn
+3. Duy nhất,"Trùng ID khi tải (dòng, đã loại)",154.0,—,Đã loại ngay khi đọc dữ liệu (giữ bản đầu tiên)
+3. Duy nhất,"Trùng DOI, khác ID (bài)",5.0,XEM LẠI,"drop_duplicates theo DOI, giữ bản có nhiều trích dẫn hơn"
+6. Đại diện,Không phải tiếng Anh (%),35.7,—,Giữ tất cả; chỉ lọc tiếng Anh khi phân tích từ khoá ⑫ và ghi rõ
+6. Đại diện,"Bài năm 2026, chưa đủ năm (%)",42.8,—,"Loại 2026 khỏi YoY/CAGR, hoặc vẽ nét đứt và chú thích 'chưa đủ năm'"
+7. Ngoại lai,Trích dẫn > 5 (Q3 + 1.5·IQR) (%),13.9,—,"Giữ (ngoại lai thật, xem D4); dùng log1p và so sánh bằng fwci"

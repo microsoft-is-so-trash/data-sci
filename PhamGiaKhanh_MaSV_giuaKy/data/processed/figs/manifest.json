@@ -1,0 +1,86 @@
+[
+  {
+    "num": 1,
+    "section": "xu-huong",
+    "file": "fig01.json",
+    "title": "Số bài năm 2025 gấp 37 lần năm 2022; riêng 10 tháng 2026 đã vượt cả năm 2025",
+    "how": "Mỗi điểm là số bài của một năm, do OpenAlex đếm trên toàn bộ 23.712 bài. Đoạn nét đứt là 2026 chưa đủ năm. Kéo thanh trượt bên dưới để phóng to một giai đoạn."
+  },
+  {
+    "num": 2,
+    "section": "xu-huong",
+    "file": "fig02.json",
+    "title": "Châu Á chiếm 53% lượt tham gia năm 2026, tăng từ 43% năm 2019",
+    "how": "Mỗi dải là phần trăm lượt tham gia của một châu lục trong năm (một bài có tác giả ở hai nước được tính cho cả hai). Bắt đầu từ 2019 vì các năm trước có dưới 40 bài. Bấm vào chú thích để ẩn/hiện châu lục."
+  },
+  {
+    "num": 3,
+    "section": "bien-dong",
+    "file": "fig03.json",
+    "title": "Trung bình trượt tăng từ 22 lên 920 bài/tháng kể từ khi ChatGPT ra mắt",
+    "how": "Cột là số bài từng tháng, đường là trung bình 3 tháng gần nhất. Bỏ 15% bài chỉ ghi năm xuất bản (ngày 01-01) và tháng 10/2026 chưa hết. Đỉnh tháng 1 và tháng 12 là nhịp ra số tạp chí."
+  },
+  {
+    "num": 4,
+    "section": "bien-dong",
+    "file": "fig04.json",
+    "title": "Năm 2023 tăng mạnh nhất (+400%); sau đó tốc độ chậm dần nhưng vẫn từ +119% mỗi năm",
+    "how": "Mỗi cột là phần trăm thay đổi số bài so với năm trước. 2026 chưa đủ năm nên không đưa vào. Độ lệch chuẩn YoY 2019–2025 là 134 điểm phần trăm: tăng trưởng rất không đều."
+  },
+  {
+    "num": 5,
+    "section": "tac-dong",
+    "file": "fig05.json",
+    "title": "Bài từ 2023 phần lớn chưa có trích dẫn: trung vị 0,0 lần/năm so với 0,6 của bài trước 2023",
+    "how": "Độ rộng của violin cho biết bao nhiêu bài có mức trích dẫn đó; hộp ở giữa là tứ phân vị, vạch ngang là trung vị. Trục dọc dùng thang log. Chỉ 34% bài từ 2023 đã có trích dẫn, so với 72% bài trước đó. Bài mới chưa đủ thời gian để được trích dẫn, nên khoảng cách này một phần là do độ trễ."
+  },
+  {
+    "num": 6,
+    "section": "tac-dong",
+    "file": "fig06.json",
+    "title": "64% số bài chưa có trích dẫn nào; trích dẫn tập trung vào một số ít bài",
+    "how": "Mỗi cột là phần trăm số bài của giai đoạn rơi vào một khoảng trích dẫn; trục ngang dùng thang log nên 0, 1, 10, 100 cách đều nhau. Hai màu chồng lên nhau để so hình dạng phân phối."
+  },
+  {
+    "num": 7,
+    "section": "quan-he",
+    "file": "fig07.json",
+    "title": "Trường viết nhiều hơn 10 lần được trích dẫn nhiều hơn khoảng 35 lần (độ dốc log–log 1,54, R² = 0,25)",
+    "how": "Mỗi chấm là một trong 394 trường có nhiều bài nhất (bỏ 6 trường chưa có trích dẫn). Đường đen là hồi quy OLS trên log của hai trục. Độ dốc lớn hơn 1 nghĩa là trích dẫn tăng nhanh hơn số bài; R² chỉ 0,25 nghĩa là ở cùng số bài, trích dẫn giữa các trường vẫn chênh nhau rất xa. Rê chuột để xem tên trường."
+  },
+  {
+    "num": 8,
+    "section": "quan-he",
+    "file": "fig08.json",
+    "title": "Bài càng cũ và càng nhiều tài liệu tham khảo thì càng được trích dẫn (ρ = 0,50 và 0,49); số tác giả chỉ liên quan yếu (ρ = 0,16)",
+    "how": "Mỗi ô là hệ số tương quan hạng Spearman giữa hai biến, từ −1 (xanh đậm: ngược chiều) đến +1 (đỏ đậm: cùng chiều). Dùng Spearman vì trích dẫn lệch mạnh và có ngoại lai. Tương quan không có nghĩa là nhân quả."
+  },
+  {
+    "num": 9,
+    "section": "dia-ly",
+    "file": "fig09.json",
+    "title": "Năm 2025 dẫn đầu là Trung Quốc, Indonesia, Hoa Kỳ; Việt Nam đứng thứ 21 với 92 bài",
+    "how": "Màu càng sáng thì quốc gia càng có nhiều bài trong năm (thang log, một bài nhiều nước được tính cho mỗi nước). Bấm ▶ để chạy qua các năm hoặc kéo thanh năm; rê chuột để xem số bài."
+  },
+  {
+    "num": 10,
+    "section": "dia-ly",
+    "file": "fig10.json",
+    "title": "Chỉ 15% số bài có hợp tác quốc tế; Trung Quốc là trung tâm với 14 đối tác thường xuyên",
+    "how": "Mỗi nút là một trong 30 quốc gia nhiều bài nhất (nút càng to càng nhiều bài, màu theo châu lục). Hai nước được nối khi có ít nhất 10 bài chung; nét càng đậm càng nhiều bài chung. Cặp mạnh nhất: Trung Quốc–Malaysia (108 bài)."
+  },
+  {
+    "num": 11,
+    "section": "chu-de",
+    "file": "fig11.json",
+    "title": "Hai nhóm lớn nhất là 'Giảng dạy, đánh giá & chương trình' (61% số bài) và 'AI tạo sinh & LLM' (53%); trong các từ khoá trên 1.000 bài, 'AI literacy' đang lên nhanh nhất, 'ChatGPT' đang nhạt dần",
+    "how": "Vòng trong là 6 nhóm chủ đề gom từ từ khoá OpenAlex, vòng ngoài là 6 từ khoá nhiều bài nhất của mỗi nhóm; độ lớn là số bài. Màu so với mức trung bình 77% bài thuộc 2025–2026: đỏ là từ khoá đang lên (tập trung ở bài mới), xanh là từ khoá đang nhạt dần. Bấm vào một nhóm để phóng to."
+  },
+  {
+    "num": 12,
+    "section": "chu-de",
+    "file": "fig12.json",
+    "title": "Từ khoá dịch từ 'educational technology', 'chatbots' (2015–2020) sang 'generative AI', 'ChatGPT': 'generative AI' có mặt trong 26% bài 2025–2026",
+    "how": "Mỗi thanh là phần trăm số bài của giai đoạn có từ khoá đó (bỏ các từ chung như 'higher education'). Bấm ▶ hoặc kéo thanh giai đoạn để xem từ khoá thay đổi; thứ tự xếp theo giai đoạn 2025–2026."
+  }
+]

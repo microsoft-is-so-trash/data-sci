@@ -1,0 +1,18 @@
+quy tắc,chỉ số,giá trị,ngưỡng,kết quả,giá trị CSV Kaggle
+1. Liên quan,Precision mẫu 100 bài ngẫu nhiên (%),96.0,>= 70,ĐẠT,
+2. Đầy đủ,Thiếu tóm tắt (%),10.4,<= 40,ĐẠT,10.4
+2. Đầy đủ,Không có quốc gia (%),26.6,<= 30,ĐẠT,26.6
+2. Đầy đủ,Thiếu primary_topic (%),0.0,= 0,ĐẠT,0.0
+2. Đầy đủ,Thiếu DOI (%),10.2,báo cáo,—,10.2
+2. Đầy đủ,Thiếu nhãn ngôn ngữ (%),29.0,báo cáo,—,
+2. Đầy đủ,Ngày chỉ có năm (ghi 01-01) (%),14.7,báo cáo,—,
+3. Duy nhất,"Trùng ID khi tải (dòng, đã loại)",154.0,báo cáo,—,154.0
+3. Duy nhất,"Trùng DOI, khác ID (bài)",5.0,= 0,XEM LẠI,5.0
+4. Hợp lệ,Năm ngoài 2015–2026 (bài),0.0,= 0,ĐẠT,0.0
+4. Hợp lệ,Loại ngoài article/review/conference (bài),0.0,= 0,ĐẠT,0.0
+4. Hợp lệ,Trích dẫn âm hoặc thiếu (bài),0.0,= 0,ĐẠT,0.0
+4. Hợp lệ,Ngày xuất bản sau ngày tải (bài),5.0,báo cáo,—,
+5. Nhất quán,Lệch số bài (sau khử trùng) so với API (%),0.7,<= 1,ĐẠT,0.7
+6. Đại diện,"Ngôn ngữ khác tiếng Anh, đã xác định (%)",6.6,báo cáo,—,
+6. Đại diện,"Bài năm 2026, chưa đủ năm (%)",42.8,báo cáo,—,42.8
+7. Ngoại lai,Trích dẫn > 5 (Q3 + 1.5·IQR) (%),13.9,báo cáo,—,13.9

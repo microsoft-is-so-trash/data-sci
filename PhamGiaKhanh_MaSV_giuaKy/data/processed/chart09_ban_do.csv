@@ -1,0 +1,742 @@
+year,country,name,count,iso3,continent
+2016,BR,Brazil,1,BRA,Nam Mỹ
+2016,ES,Spain,1,ESP,Châu Âu
+2016,GR,Greece,1,GRC,Châu Âu
+2016,PT,Portugal,1,PRT,Châu Âu
+2016,TR,Turkey,1,TUR,Châu Á
+2016,US,United States,1,USA,Bắc Mỹ
+2017,ES,Spain,2,ESP,Châu Âu
+2017,AR,Argentina,1,ARG,Nam Mỹ
+2017,AU,Australia,1,AUS,Châu Đại Dương
+2017,CO,Colombia,1,COL,Nam Mỹ
+2017,DE,Germany,1,DEU,Châu Âu
+2017,MX,Mexico,1,MEX,Bắc Mỹ
+2017,RO,Romania,1,ROU,Châu Âu
+2017,RU,Russia,1,RUS,Châu Âu
+2017,US,United States,1,USA,Bắc Mỹ
+2018,CN,China,2,CHN,Châu Á
+2018,RS,Serbia,2,SRB,Châu Âu
+2018,US,United States,2,USA,Bắc Mỹ
+2018,VN,Vietnam,2,VNM,Châu Á
+2018,AU,Australia,1,AUS,Châu Đại Dương
+2018,CA,Canada,1,CAN,Bắc Mỹ
+2018,DE,Germany,1,DEU,Châu Âu
+2018,DK,Denmark,1,DNK,Châu Âu
+2018,ES,Spain,1,ESP,Châu Âu
+2018,GB,United Kingdom,1,GBR,Châu Âu
+2018,HK,Hong Kong,1,HKG,Châu Á
+2018,ID,Indonesia,1,IDN,Châu Á
+2018,MT,Malta,1,MLT,Châu Âu
+2018,MY,Malaysia,1,MYS,Châu Á
+2018,OM,Oman,1,OMN,Châu Á
+2018,PE,Peru,1,PER,Nam Mỹ
+2018,PH,Philippines,1,PHL,Châu Á
+2018,PK,Pakistan,1,PAK,Châu Á
+2018,PL,Poland,1,POL,Châu Âu
+2018,QA,Qatar,1,QAT,Châu Á
+2018,RO,Romania,1,ROU,Châu Âu
+2018,RU,Russia,1,RUS,Châu Âu
+2018,ZA,South Africa,1,ZAF,Châu Phi
+2019,CN,China,13,CHN,Châu Á
+2019,RU,Russia,7,RUS,Châu Âu
+2019,US,United States,4,USA,Bắc Mỹ
+2019,ES,Spain,3,ESP,Châu Âu
+2019,MX,Mexico,3,MEX,Bắc Mỹ
+2019,DE,Germany,2,DEU,Châu Âu
+2019,EC,Ecuador,2,ECU,Nam Mỹ
+2019,GB,United Kingdom,2,GBR,Châu Âu
+2019,HK,Hong Kong,2,HKG,Châu Á
+2019,IN,India,2,IND,Châu Á
+2019,PE,Peru,2,PER,Nam Mỹ
+2019,AE,United Arab Emirates,1,ARE,Châu Á
+2019,BR,Brazil,1,BRA,Nam Mỹ
+2019,CO,Colombia,1,COL,Nam Mỹ
+2019,EG,Egypt,1,EGY,Châu Phi
+2019,GR,Greece,1,GRC,Châu Âu
+2019,KZ,Kazakhstan,1,KAZ,Châu Á
+2019,MO,Macao,1,MAC,Châu Á
+2019,MY,Malaysia,1,MYS,Châu Á
+2019,TR,Turkey,1,TUR,Châu Á
+2019,UA,Ukraine,1,UKR,Châu Âu
+2019,UZ,Uzbekistan,1,UZB,Châu Á
+2020,CN,China,18,CHN,Châu Á
+2020,RU,Russia,11,RUS,Châu Âu
+2020,SA,Saudi Arabia,7,SAU,Châu Á
+2020,ES,Spain,6,ESP,Châu Âu
+2020,US,United States,6,USA,Bắc Mỹ
+2020,UA,Ukraine,4,UKR,Châu Âu
+2020,EC,Ecuador,3,ECU,Nam Mỹ
+2020,HK,Hong Kong,3,HKG,Châu Á
+2020,CA,Canada,2,CAN,Bắc Mỹ
+2020,FI,Finland,2,FIN,Châu Âu
+2020,IN,India,2,IND,Châu Á
+2020,MA,Morocco,2,MAR,Châu Phi
+2020,MY,Malaysia,2,MYS,Châu Á
+2020,TH,Thailand,2,THA,Châu Á
+2020,AR,Argentina,1,ARG,Nam Mỹ
+2020,BG,Bulgaria,1,BGR,Châu Âu
+2020,BO,Bolivia,1,BOL,Nam Mỹ
+2020,CO,Colombia,1,COL,Nam Mỹ
+2020,CZ,Czechia,1,CZE,Châu Âu
+2020,DE,Germany,1,DEU,Châu Âu
+2020,DK,Denmark,1,DNK,Châu Âu
+2020,EG,Egypt,1,EGY,Châu Phi
+2020,FR,France,1,FRA,Châu Âu
+2020,GB,United Kingdom,1,GBR,Châu Âu
+2020,GE,Georgia,1,GEO,Châu Á
+2020,GR,Greece,1,GRC,Châu Âu
+2020,JO,Jordan,1,JOR,Châu Á
+2020,JP,Japan,1,JPN,Châu Á
+2020,KR,South Korea,1,KOR,Châu Á
+2020,MD,Moldova,1,MDA,Châu Âu
+2020,MX,Mexico,1,MEX,Bắc Mỹ
+2020,OM,Oman,1,OMN,Châu Á
+2020,PL,Poland,1,POL,Châu Âu
+2020,PT,Portugal,1,PRT,Châu Âu
+2020,SK,Slovakia,1,SVK,Châu Âu
+2020,TW,Taiwan,1,TWN,Châu Á
+2020,VN,Vietnam,1,VNM,Châu Á
+2020,ZA,South Africa,1,ZAF,Châu Phi
+2021,CN,China,42,CHN,Châu Á
+2021,RU,Russia,11,RUS,Châu Âu
+2021,US,United States,9,USA,Bắc Mỹ
+2021,ES,Spain,7,ESP,Châu Âu
+2021,UA,Ukraine,7,UKR,Châu Âu
+2021,IN,India,5,IND,Châu Á
+2021,GB,United Kingdom,4,GBR,Châu Âu
+2021,HK,Hong Kong,4,HKG,Châu Á
+2021,RO,Romania,4,ROU,Châu Âu
+2021,TR,Turkey,4,TUR,Châu Á
+2021,TW,Taiwan,4,TWN,Châu Á
+2021,DE,Germany,3,DEU,Châu Âu
+2021,RS,Serbia,3,SRB,Châu Âu
+2021,TH,Thailand,3,THA,Châu Á
+2021,AE,United Arab Emirates,2,ARE,Châu Á
+2021,AU,Australia,2,AUS,Châu Đại Dương
+2021,CL,Chile,2,CHL,Nam Mỹ
+2021,CR,Costa Rica,2,CRI,Bắc Mỹ
+2021,EE,Estonia,2,EST,Châu Âu
+2021,EG,Egypt,2,EGY,Châu Phi
+2021,FI,Finland,2,FIN,Châu Âu
+2021,KZ,Kazakhstan,2,KAZ,Châu Á
+2021,NG,Nigeria,2,NGA,Châu Phi
+2021,OM,Oman,2,OMN,Châu Á
+2021,PE,Peru,2,PER,Nam Mỹ
+2021,PT,Portugal,2,PRT,Châu Âu
+2021,UZ,Uzbekistan,2,UZB,Châu Á
+2021,ZA,South Africa,2,ZAF,Châu Phi
+2021,AT,Austria,1,AUT,Châu Âu
+2021,BY,Belarus,1,BLR,Châu Âu
+2021,CA,Canada,1,CAN,Bắc Mỹ
+2021,CH,Switzerland,1,CHE,Châu Âu
+2021,CO,Colombia,1,COL,Nam Mỹ
+2021,CY,Cyprus,1,CYP,Châu Á
+2021,DK,Denmark,1,DNK,Châu Âu
+2021,EC,Ecuador,1,ECU,Nam Mỹ
+2021,FR,France,1,FRA,Châu Âu
+2021,ID,Indonesia,1,IDN,Châu Á
+2021,IR,Iran,1,IRN,Châu Á
+2021,IT,Italy,1,ITA,Châu Âu
+2021,JO,Jordan,1,JOR,Châu Á
+2021,KR,South Korea,1,KOR,Châu Á
+2021,LV,Latvia,1,LVA,Châu Âu
+2021,MA,Morocco,1,MAR,Châu Phi
+2021,MX,Mexico,1,MEX,Bắc Mỹ
+2021,MY,Malaysia,1,MYS,Châu Á
+2021,PH,Philippines,1,PHL,Châu Á
+2021,PL,Poland,1,POL,Châu Âu
+2021,SA,Saudi Arabia,1,SAU,Châu Á
+2021,SG,Singapore,1,SGP,Châu Á
+2021,SK,Slovakia,1,SVK,Châu Âu
+2021,SL,Sierra Leone,1,SLE,Châu Phi
+2021,SN,Senegal,1,SEN,Châu Phi
+2021,ZW,Zimbabwe,1,ZWE,Châu Phi
+2022,CN,China,35,CHN,Châu Á
+2022,IN,India,15,IND,Châu Á
+2022,RU,Russia,12,RUS,Châu Âu
+2022,SA,Saudi Arabia,11,SAU,Châu Á
+2022,US,United States,11,USA,Bắc Mỹ
+2022,ID,Indonesia,9,IDN,Châu Á
+2022,GB,United Kingdom,7,GBR,Châu Âu
+2022,TH,Thailand,6,THA,Châu Á
+2022,MY,Malaysia,5,MYS,Châu Á
+2022,ES,Spain,4,ESP,Châu Âu
+2022,HK,Hong Kong,4,HKG,Châu Á
+2022,KZ,Kazakhstan,4,KAZ,Châu Á
+2022,TW,Taiwan,4,TWN,Châu Á
+2022,UA,Ukraine,4,UKR,Châu Âu
+2022,AU,Australia,3,AUS,Châu Đại Dương
+2022,DE,Germany,3,DEU,Châu Âu
+2022,EG,Egypt,3,EGY,Châu Phi
+2022,MX,Mexico,3,MEX,Bắc Mỹ
+2022,SE,Sweden,3,SWE,Châu Âu
+2022,UZ,Uzbekistan,3,UZB,Châu Á
+2022,BH,Bahrain,2,BHR,Châu Á
+2022,BR,Brazil,2,BRA,Nam Mỹ
+2022,CA,Canada,2,CAN,Bắc Mỹ
+2022,CL,Chile,2,CHL,Nam Mỹ
+2022,IQ,Iraq,2,IRQ,Châu Á
+2022,NG,Nigeria,2,NGA,Châu Phi
+2022,PK,Pakistan,2,PAK,Châu Á
+2022,PT,Portugal,2,PRT,Châu Âu
+2022,RO,Romania,2,ROU,Châu Âu
+2022,SG,Singapore,2,SGP,Châu Á
+2022,ZA,South Africa,2,ZAF,Châu Phi
+2022,AL,Albania,1,ALB,Châu Âu
+2022,AR,Argentina,1,ARG,Nam Mỹ
+2022,BD,Bangladesh,1,BGD,Châu Á
+2022,BG,Bulgaria,1,BGR,Châu Âu
+2022,BT,Bhutan,1,BTN,Châu Á
+2022,CH,Switzerland,1,CHE,Châu Âu
+2022,CM,Cameroon,1,CMR,Châu Phi
+2022,EC,Ecuador,1,ECU,Nam Mỹ
+2022,FI,Finland,1,FIN,Châu Âu
+2022,FR,France,1,FRA,Châu Âu
+2022,GH,Ghana,1,GHA,Châu Phi
+2022,HU,Hungary,1,HUN,Châu Âu
+2022,JO,Jordan,1,JOR,Châu Á
+2022,KW,Kuwait,1,KWT,Châu Á
+2022,MK,North Macedonia,1,MKD,Châu Âu
+2022,MZ,Mozambique,1,MOZ,Châu Phi
+2022,NL,Netherlands,1,NLD,Châu Âu
+2022,NZ,New Zealand,1,NZL,Châu Đại Dương
+2022,OM,Oman,1,OMN,Châu Á
+2022,PE,Peru,1,PER,Nam Mỹ
+2022,PH,Philippines,1,PHL,Châu Á
+2022,PS,Palestine,1,PSE,Châu Á
+2022,QA,Qatar,1,QAT,Châu Á
+2022,RS,Serbia,1,SRB,Châu Âu
+2022,SD,Sudan,1,SDN,Châu Phi
+2022,SN,Senegal,1,SEN,Châu Phi
+2022,VN,Vietnam,1,VNM,Châu Á
+2023,CN,China,88,CHN,Châu Á
+2023,US,United States,82,USA,Bắc Mỹ
+2023,ID,Indonesia,64,IDN,Châu Á
+2023,AU,Australia,46,AUS,Châu Đại Dương
+2023,IN,India,38,IND,Châu Á
+2023,UA,Ukraine,38,UKR,Châu Âu
+2023,ES,Spain,35,ESP,Châu Âu
+2023,GB,United Kingdom,34,GBR,Châu Âu
+2023,RU,Russia,34,RUS,Châu Âu
+2023,MY,Malaysia,32,MYS,Châu Á
+2023,HK,Hong Kong,26,HKG,Châu Á
+2023,SA,Saudi Arabia,26,SAU,Châu Á
+2023,DE,Germany,25,DEU,Châu Âu
+2023,PK,Pakistan,18,PAK,Châu Á
+2023,ZA,South Africa,18,ZAF,Châu Phi
+2023,AE,United Arab Emirates,16,ARE,Châu Á
+2023,PH,Philippines,16,PHL,Châu Á
+2023,CA,Canada,15,CAN,Bắc Mỹ
+2023,PE,Peru,15,PER,Nam Mỹ
+2023,TH,Thailand,15,THA,Châu Á
+2023,EG,Egypt,14,EGY,Châu Phi
+2023,JP,Japan,13,JPN,Châu Á
+2023,EC,Ecuador,12,ECU,Nam Mỹ
+2023,MX,Mexico,12,MEX,Bắc Mỹ
+2023,KR,South Korea,10,KOR,Châu Á
+2023,TR,Turkey,10,TUR,Châu Á
+2023,UZ,Uzbekistan,10,UZB,Châu Á
+2023,IE,Ireland,9,IRL,Châu Âu
+2023,JO,Jordan,9,JOR,Châu Á
+2023,PL,Poland,9,POL,Châu Âu
+2023,PT,Portugal,9,PRT,Châu Âu
+2023,SE,Sweden,9,SWE,Châu Âu
+2023,TW,Taiwan,9,TWN,Châu Á
+2023,VN,Vietnam,9,VNM,Châu Á
+2023,BG,Bulgaria,8,BGR,Châu Âu
+2023,BR,Brazil,7,BRA,Nam Mỹ
+2023,GH,Ghana,7,GHA,Châu Phi
+2023,NG,Nigeria,7,NGA,Châu Phi
+2023,NZ,New Zealand,7,NZL,Châu Đại Dương
+2023,CO,Colombia,6,COL,Nam Mỹ
+2023,GR,Greece,6,GRC,Châu Âu
+2023,IT,Italy,6,ITA,Châu Âu
+2023,NL,Netherlands,6,NLD,Châu Âu
+2023,OM,Oman,6,OMN,Châu Á
+2023,RO,Romania,6,ROU,Châu Âu
+2023,SG,Singapore,6,SGP,Châu Á
+2023,AT,Austria,5,AUT,Châu Âu
+2023,BH,Bahrain,5,BHR,Châu Á
+2023,HU,Hungary,5,HUN,Châu Âu
+2023,MA,Morocco,5,MAR,Châu Phi
+2023,SK,Slovakia,5,SVK,Châu Âu
+2023,CL,Chile,4,CHL,Nam Mỹ
+2023,CZ,Czechia,4,CZE,Châu Âu
+2023,FI,Finland,4,FIN,Châu Âu
+2023,IQ,Iraq,4,IRQ,Châu Á
+2023,NP,Nepal,4,NPL,Châu Á
+2023,QA,Qatar,4,QAT,Châu Á
+2023,SI,Slovenia,4,SVN,Châu Âu
+2023,AR,Argentina,3,ARG,Nam Mỹ
+2023,AZ,Azerbaijan,3,AZE,Châu Á
+2023,BD,Bangladesh,3,BGD,Châu Á
+2023,CH,Switzerland,3,CHE,Châu Âu
+2023,IR,Iran,3,IRN,Châu Á
+2023,KW,Kuwait,3,KWT,Châu Á
+2023,KZ,Kazakhstan,3,KAZ,Châu Á
+2023,LB,Lebanon,3,LBN,Châu Á
+2023,AM,Armenia,2,ARM,Châu Á
+2023,BE,Belgium,2,BEL,Châu Âu
+2023,FR,France,2,FRA,Châu Âu
+2023,HR,Croatia,2,HRV,Châu Âu
+2023,KE,Kenya,2,KEN,Châu Phi
+2023,LU,Luxembourg,2,LUX,Châu Âu
+2023,VE,Venezuela,2,VEN,Nam Mỹ
+2023,AL,Albania,1,ALB,Châu Âu
+2023,BN,Brunei,1,BRN,Châu Á
+2023,BO,Bolivia,1,BOL,Nam Mỹ
+2023,CR,Costa Rica,1,CRI,Bắc Mỹ
+2023,CY,Cyprus,1,CYP,Châu Á
+2023,DK,Denmark,1,DNK,Châu Âu
+2023,EE,Estonia,1,EST,Châu Âu
+2023,GY,Guyana,1,GUY,Nam Mỹ
+2023,IL,Israel,1,ISR,Châu Á
+2023,JM,Jamaica,1,JAM,Bắc Mỹ
+2023,KH,Cambodia,1,KHM,Châu Á
+2023,LK,Sri Lanka,1,LKA,Châu Á
+2023,LT,Lithuania,1,LTU,Châu Âu
+2023,LV,Latvia,1,LVA,Châu Âu
+2023,LY,Libya,1,LBY,Châu Phi
+2023,ME,Montenegro,1,MNE,Châu Âu
+2023,MK,North Macedonia,1,MKD,Châu Âu
+2023,MN,Mongolia,1,MNG,Châu Á
+2023,MO,Macao,1,MAC,Châu Á
+2023,MT,Malta,1,MLT,Châu Âu
+2023,NU,Niue,1,NIU,Châu Đại Dương
+2023,PS,Palestine,1,PSE,Châu Á
+2023,RS,Serbia,1,SRB,Châu Âu
+2023,SY,Syria,1,SYR,Châu Á
+2023,TN,Tunisia,1,TUN,Châu Phi
+2023,UG,Uganda,1,UGA,Châu Phi
+2023,ZM,Zambia,1,ZMB,Châu Phi
+2023,ZW,Zimbabwe,1,ZWE,Châu Phi
+2024,CN,China,338,CHN,Châu Á
+2024,US,United States,274,USA,Bắc Mỹ
+2024,ID,Indonesia,231,IDN,Châu Á
+2024,GB,United Kingdom,133,GBR,Châu Âu
+2024,IN,India,107,IND,Châu Á
+2024,RU,Russia,104,RUS,Châu Âu
+2024,SA,Saudi Arabia,102,SAU,Châu Á
+2024,AU,Australia,101,AUS,Châu Đại Dương
+2024,MY,Malaysia,88,MYS,Châu Á
+2024,ES,Spain,79,ESP,Châu Âu
+2024,UA,Ukraine,79,UKR,Châu Âu
+2024,ZA,South Africa,73,ZAF,Châu Phi
+2024,PK,Pakistan,66,PAK,Châu Á
+2024,MX,Mexico,61,MEX,Bắc Mỹ
+2024,NG,Nigeria,60,NGA,Châu Phi
+2024,DE,Germany,52,DEU,Châu Âu
+2024,TR,Turkey,52,TUR,Châu Á
+2024,EC,Ecuador,50,ECU,Nam Mỹ
+2024,PE,Peru,49,PER,Nam Mỹ
+2024,CA,Canada,47,CAN,Bắc Mỹ
+2024,AE,United Arab Emirates,45,ARE,Châu Á
+2024,EG,Egypt,45,EGY,Châu Phi
+2024,PH,Philippines,45,PHL,Châu Á
+2024,HK,Hong Kong,41,HKG,Châu Á
+2024,VN,Vietnam,40,VNM,Châu Á
+2024,IT,Italy,32,ITA,Châu Âu
+2024,JO,Jordan,30,JOR,Châu Á
+2024,OM,Oman,30,OMN,Châu Á
+2024,TW,Taiwan,30,TWN,Châu Á
+2024,TH,Thailand,28,THA,Châu Á
+2024,BD,Bangladesh,27,BGD,Châu Á
+2024,KR,South Korea,27,KOR,Châu Á
+2024,UZ,Uzbekistan,27,UZB,Châu Á
+2024,RO,Romania,26,ROU,Châu Âu
+2024,SE,Sweden,25,SWE,Châu Âu
+2024,GR,Greece,24,GRC,Châu Âu
+2024,SG,Singapore,23,SGP,Châu Á
+2024,PL,Poland,22,POL,Châu Âu
+2024,CO,Colombia,21,COL,Nam Mỹ
+2024,KZ,Kazakhstan,21,KAZ,Châu Á
+2024,MA,Morocco,21,MAR,Châu Phi
+2024,AT,Austria,20,AUT,Châu Âu
+2024,DZ,Algeria,19,DZA,Châu Phi
+2024,BR,Brazil,18,BRA,Nam Mỹ
+2024,CZ,Czechia,18,CZE,Châu Âu
+2024,JP,Japan,18,JPN,Châu Á
+2024,PT,Portugal,18,PRT,Châu Âu
+2024,CH,Switzerland,16,CHE,Châu Âu
+2024,FI,Finland,16,FIN,Châu Âu
+2024,IQ,Iraq,16,IRQ,Châu Á
+2024,BG,Bulgaria,15,BGR,Châu Âu
+2024,CY,Cyprus,15,CYP,Châu Á
+2024,LV,Latvia,15,LVA,Châu Âu
+2024,CL,Chile,14,CHL,Nam Mỹ
+2024,NO,Norway,14,NOR,Châu Âu
+2024,NZ,New Zealand,14,NZL,Châu Đại Dương
+2024,RS,Serbia,14,SRB,Châu Âu
+2024,DK,Denmark,13,DNK,Châu Âu
+2024,HU,Hungary,13,HUN,Châu Âu
+2024,NL,Netherlands,13,NLD,Châu Âu
+2024,SK,Slovakia,12,SVK,Châu Âu
+2024,MO,Macao,11,MAC,Châu Á
+2024,BH,Bahrain,10,BHR,Châu Á
+2024,LK,Sri Lanka,10,LKA,Châu Á
+2024,PS,Palestine,10,PSE,Châu Á
+2024,QA,Qatar,10,QAT,Châu Á
+2024,GH,Ghana,9,GHA,Châu Phi
+2024,IE,Ireland,9,IRL,Châu Âu
+2024,IR,Iran,9,IRN,Châu Á
+2024,LB,Lebanon,9,LBN,Châu Á
+2024,VE,Venezuela,9,VEN,Nam Mỹ
+2024,YE,Yemen,8,YEM,Châu Á
+2024,FR,France,7,FRA,Châu Âu
+2024,HR,Croatia,7,HRV,Châu Âu
+2024,KE,Kenya,7,KEN,Châu Phi
+2024,UG,Uganda,7,UGA,Châu Phi
+2024,ZW,Zimbabwe,7,ZWE,Châu Phi
+2024,AF,Afghanistan,6,AFG,Châu Á
+2024,AR,Argentina,6,ARG,Nam Mỹ
+2024,GE,Georgia,6,GEO,Châu Á
+2024,GT,Guatemala,6,GTM,Bắc Mỹ
+2024,NP,Nepal,6,NPL,Châu Á
+2024,SI,Slovenia,6,SVN,Châu Âu
+2024,CU,Cuba,5,CUB,Bắc Mỹ
+2024,IL,Israel,5,ISR,Châu Á
+2024,KW,Kuwait,5,KWT,Châu Á
+2024,SV,El Salvador,5,SLV,Bắc Mỹ
+2024,TZ,Tanzania,5,TZA,Châu Phi
+2024,AL,Albania,4,ALB,Châu Âu
+2024,AZ,Azerbaijan,4,AZE,Châu Á
+2024,BE,Belgium,4,BEL,Châu Âu
+2024,CR,Costa Rica,4,CRI,Bắc Mỹ
+2024,EE,Estonia,4,EST,Châu Âu
+2024,KH,Cambodia,4,KHM,Châu Á
+2024,LT,Lithuania,4,LTU,Châu Âu
+2024,MK,North Macedonia,4,MKD,Châu Âu
+2024,BN,Brunei,3,BRN,Châu Á
+2024,BW,Botswana,3,BWA,Châu Phi
+2024,HN,Honduras,3,HND,Bắc Mỹ
+2024,KG,Kyrgyzstan,3,KGZ,Châu Á
+2024,LY,Libya,3,LBY,Châu Phi
+2024,NI,Nicaragua,3,NIC,Bắc Mỹ
+2024,TN,Tunisia,3,TUN,Châu Phi
+2024,XK,Kosovo,3,XKX,Châu Âu
+2024,AM,Armenia,2,ARM,Châu Á
+2024,BA,Bosnia & Herzegovina,2,BIH,Châu Âu
+2024,BO,Bolivia,2,BOL,Nam Mỹ
+2024,BY,Belarus,2,BLR,Châu Âu
+2024,DO,Dominican Rep.,2,DOM,Bắc Mỹ
+2024,JM,Jamaica,2,JAM,Bắc Mỹ
+2024,KM,Comoros,2,COM,Châu Phi
+2024,PA,Panama,2,PAN,Bắc Mỹ
+2024,RW,Rwanda,2,RWA,Châu Phi
+2024,TL,Timor-Leste,2,TLS,Châu Á
+2024,ZM,Zambia,2,ZMB,Châu Phi
+2024,CI,Ivory Coast,1,CIV,Châu Phi
+2024,FJ,Fiji,1,FJI,Châu Đại Dương
+2024,GM,Gambia,1,GMB,Châu Phi
+2024,GY,Guyana,1,GUY,Nam Mỹ
+2024,IS,Iceland,1,ISL,Châu Âu
+2024,LA,Laos,1,LAO,Châu Á
+2024,LS,Lesotho,1,LSO,Châu Phi
+2024,MM,Myanmar,1,MMR,Châu Á
+2024,MN,Mongolia,1,MNG,Châu Á
+2024,MT,Malta,1,MLT,Châu Âu
+2024,MU,Mauritius,1,MUS,Châu Phi
+2024,PY,Paraguay,1,PRY,Nam Mỹ
+2024,SN,Senegal,1,SEN,Châu Phi
+2024,SY,Syria,1,SYR,Châu Á
+2024,SZ,Eswatini,1,SWZ,Châu Phi
+2024,TT,Trinidad & Tobago,1,TTO,Bắc Mỹ
+2025,CN,China,822,CHN,Châu Á
+2025,ID,Indonesia,613,IDN,Châu Á
+2025,US,United States,479,USA,Bắc Mỹ
+2025,PK,Pakistan,276,PAK,Châu Á
+2025,MY,Malaysia,260,MYS,Châu Á
+2025,IN,India,230,IND,Châu Á
+2025,GB,United Kingdom,211,GBR,Châu Âu
+2025,RU,Russia,195,RUS,Châu Âu
+2025,PH,Philippines,186,PHL,Châu Á
+2025,NG,Nigeria,174,NGA,Châu Phi
+2025,SA,Saudi Arabia,160,SAU,Châu Á
+2025,UA,Ukraine,159,UKR,Châu Âu
+2025,TR,Turkey,144,TUR,Châu Á
+2025,AU,Australia,142,AUS,Châu Đại Dương
+2025,ES,Spain,134,ESP,Châu Âu
+2025,ZA,South Africa,110,ZAF,Châu Phi
+2025,MX,Mexico,106,MEX,Bắc Mỹ
+2025,TH,Thailand,103,THA,Châu Á
+2025,AE,United Arab Emirates,94,ARE,Châu Á
+2025,HK,Hong Kong,92,HKG,Châu Á
+2025,VN,Vietnam,92,VNM,Châu Á
+2025,EC,Ecuador,88,ECU,Nam Mỹ
+2025,DE,Germany,87,DEU,Châu Âu
+2025,JO,Jordan,71,JOR,Châu Á
+2025,PE,Peru,71,PER,Nam Mỹ
+2025,IT,Italy,68,ITA,Châu Âu
+2025,CA,Canada,67,CAN,Bắc Mỹ
+2025,KZ,Kazakhstan,66,KAZ,Châu Á
+2025,KR,South Korea,65,KOR,Châu Á
+2025,OM,Oman,59,OMN,Châu Á
+2025,RO,Romania,59,ROU,Châu Âu
+2025,JP,Japan,55,JPN,Châu Á
+2025,UZ,Uzbekistan,54,UZB,Châu Á
+2025,CO,Colombia,53,COL,Nam Mỹ
+2025,PL,Poland,53,POL,Châu Âu
+2025,DZ,Algeria,52,DZA,Châu Phi
+2025,EG,Egypt,52,EGY,Châu Phi
+2025,GR,Greece,47,GRC,Châu Âu
+2025,BD,Bangladesh,45,BGD,Châu Á
+2025,PT,Portugal,41,PRT,Châu Âu
+2025,TW,Taiwan,41,TWN,Châu Á
+2025,BR,Brazil,40,BRA,Nam Mỹ
+2025,MA,Morocco,40,MAR,Châu Phi
+2025,FI,Finland,39,FIN,Châu Âu
+2025,IQ,Iraq,38,IRQ,Châu Á
+2025,BG,Bulgaria,37,BGR,Châu Âu
+2025,CL,Chile,33,CHL,Nam Mỹ
+2025,SG,Singapore,33,SGP,Châu Á
+2025,SE,Sweden,31,SWE,Châu Âu
+2025,HU,Hungary,29,HUN,Châu Âu
+2025,NL,Netherlands,29,NLD,Châu Âu
+2025,NO,Norway,29,NOR,Châu Âu
+2025,IR,Iran,28,IRN,Châu Á
+2025,SK,Slovakia,28,SVK,Châu Âu
+2025,MO,Macao,27,MAC,Châu Á
+2025,AR,Argentina,26,ARG,Nam Mỹ
+2025,CY,Cyprus,26,CYP,Châu Á
+2025,AT,Austria,24,AUT,Châu Âu
+2025,FR,France,24,FRA,Châu Âu
+2025,GH,Ghana,24,GHA,Châu Phi
+2025,HR,Croatia,24,HRV,Châu Âu
+2025,CZ,Czechia,22,CZE,Châu Âu
+2025,IL,Israel,22,ISR,Châu Á
+2025,TZ,Tanzania,22,TZA,Châu Phi
+2025,LY,Libya,21,LBY,Châu Phi
+2025,NZ,New Zealand,21,NZL,Châu Đại Dương
+2025,CH,Switzerland,20,CHE,Châu Âu
+2025,PS,Palestine,20,PSE,Châu Á
+2025,RS,Serbia,18,SRB,Châu Âu
+2025,KE,Kenya,17,KEN,Châu Phi
+2025,SI,Slovenia,17,SVN,Châu Âu
+2025,TN,Tunisia,17,TUN,Châu Phi
+2025,ZW,Zimbabwe,17,ZWE,Châu Phi
+2025,LB,Lebanon,16,LBN,Châu Á
+2025,KW,Kuwait,15,KWT,Châu Á
+2025,LK,Sri Lanka,15,LKA,Châu Á
+2025,YE,Yemen,15,YEM,Châu Á
+2025,DK,Denmark,14,DNK,Châu Âu
+2025,LV,Latvia,14,LVA,Châu Âu
+2025,AZ,Azerbaijan,12,AZE,Châu Á
+2025,EE,Estonia,12,EST,Châu Âu
+2025,NP,Nepal,12,NPL,Châu Á
+2025,QA,Qatar,12,QAT,Châu Á
+2025,UG,Uganda,12,UGA,Châu Phi
+2025,VE,Venezuela,12,VEN,Nam Mỹ
+2025,AF,Afghanistan,11,AFG,Châu Á
+2025,BE,Belgium,11,BEL,Châu Âu
+2025,GE,Georgia,11,GEO,Châu Á
+2025,AL,Albania,10,ALB,Châu Âu
+2025,SV,El Salvador,10,SLV,Bắc Mỹ
+2025,CU,Cuba,9,CUB,Bắc Mỹ
+2025,IE,Ireland,9,IRL,Châu Âu
+2025,KG,Kyrgyzstan,9,KGZ,Châu Á
+2025,MK,North Macedonia,9,MKD,Châu Âu
+2025,BH,Bahrain,8,BHR,Châu Á
+2025,CR,Costa Rica,8,CRI,Bắc Mỹ
+2025,ZM,Zambia,8,ZMB,Châu Phi
+2025,BW,Botswana,7,BWA,Châu Phi
+2025,LT,Lithuania,7,LTU,Châu Âu
+2025,BO,Bolivia,6,BOL,Nam Mỹ
+2025,BY,Belarus,6,BLR,Châu Âu
+2025,HN,Honduras,6,HND,Bắc Mỹ
+2025,RW,Rwanda,6,RWA,Châu Phi
+2025,AM,Armenia,5,ARM,Châu Á
+2025,NI,Nicaragua,5,NIC,Bắc Mỹ
+2025,TT,Trinidad & Tobago,5,TTO,Bắc Mỹ
+2025,XK,Kosovo,5,XKX,Châu Âu
+2025,BA,Bosnia & Herzegovina,4,BIH,Châu Âu
+2025,GT,Guatemala,4,GTM,Bắc Mỹ
+2025,JM,Jamaica,4,JAM,Bắc Mỹ
+2025,KH,Cambodia,4,KHM,Châu Á
+2025,LU,Luxembourg,4,LUX,Châu Âu
+2025,MN,Mongolia,4,MNG,Châu Á
+2025,ET,Ethiopia,3,ETH,Châu Phi
+2025,FJ,Fiji,3,FJI,Châu Đại Dương
+2025,IS,Iceland,3,ISL,Châu Âu
+2025,NA,Namibia,3,NAM,Châu Phi
+2025,PA,Panama,3,PAN,Bắc Mỹ
+2025,PR,Puerto Rico,3,PRI,Bắc Mỹ
+2025,PY,Paraguay,3,PRY,Nam Mỹ
+2025,SO,Somalia,3,SOM,Châu Phi
+2025,BN,Brunei,2,BRN,Châu Á
+2025,BS,Bahamas,2,BHS,Bắc Mỹ
+2025,CM,Cameroon,2,CMR,Châu Phi
+2025,CV,Cabo Verde,2,CPV,Châu Phi
+2025,MD,Moldova,2,MDA,Châu Âu
+2025,MG,Madagascar,2,MDG,Châu Phi
+2025,SD,Sudan,2,SDN,Châu Phi
+2025,SL,Sierra Leone,2,SLE,Châu Phi
+2025,SN,Senegal,2,SEN,Châu Phi
+2025,SZ,Eswatini,2,SWZ,Châu Phi
+2025,BB,Barbados,1,BRB,Bắc Mỹ
+2025,BT,Bhutan,1,BTN,Châu Á
+2025,CD,DR Congo,1,COD,Châu Phi
+2025,DO,Dominican Rep.,1,DOM,Bắc Mỹ
+2025,GF,French Guiana,1,GUF,Nam Mỹ
+2025,HT,Haiti,1,HTI,Bắc Mỹ
+2025,ME,Montenegro,1,MNE,Châu Âu
+2025,MM,Myanmar,1,MMR,Châu Á
+2025,MT,Malta,1,MLT,Châu Âu
+2025,MU,Mauritius,1,MUS,Châu Phi
+2025,MZ,Mozambique,1,MOZ,Châu Phi
+2025,NE,Niger,1,NER,Châu Phi
+2025,RE,Réunion,1,REU,Châu Phi
+2025,TJ,Tajikistan,1,TJK,Châu Á
+2025,TL,Timor-Leste,1,TLS,Châu Á
+2025,UY,Uruguay,1,URY,Nam Mỹ
+2026,CN,China,871,CHN,Châu Á
+2026,ID,Indonesia,773,IDN,Châu Á
+2026,US,United States,683,USA,Bắc Mỹ
+2026,MY,Malaysia,357,MYS,Châu Á
+2026,IN,India,350,IND,Châu Á
+2026,PK,Pakistan,300,PAK,Châu Á
+2026,GB,United Kingdom,268,GBR,Châu Âu
+2026,NG,Nigeria,266,NGA,Châu Phi
+2026,RU,Russia,266,RUS,Châu Âu
+2026,PH,Philippines,198,PHL,Châu Á
+2026,SA,Saudi Arabia,192,SAU,Châu Á
+2026,TR,Turkey,191,TUR,Châu Á
+2026,ES,Spain,176,ESP,Châu Âu
+2026,AU,Australia,165,AUS,Châu Đại Dương
+2026,ZA,South Africa,149,ZAF,Châu Phi
+2026,UA,Ukraine,140,UKR,Châu Âu
+2026,VN,Vietnam,140,VNM,Châu Á
+2026,UZ,Uzbekistan,139,UZB,Châu Á
+2026,EC,Ecuador,130,ECU,Nam Mỹ
+2026,MX,Mexico,129,MEX,Bắc Mỹ
+2026,TH,Thailand,127,THA,Châu Á
+2026,KZ,Kazakhstan,119,KAZ,Châu Á
+2026,AE,United Arab Emirates,95,ARE,Châu Á
+2026,DE,Germany,91,DEU,Châu Âu
+2026,CA,Canada,86,CAN,Bắc Mỹ
+2026,PE,Peru,81,PER,Nam Mỹ
+2026,IT,Italy,79,ITA,Châu Âu
+2026,KR,South Korea,77,KOR,Châu Á
+2026,BD,Bangladesh,74,BGD,Châu Á
+2026,HK,Hong Kong,73,HKG,Châu Á
+2026,MA,Morocco,68,MAR,Châu Phi
+2026,TW,Taiwan,68,TWN,Châu Á
+2026,CO,Colombia,53,COL,Nam Mỹ
+2026,GH,Ghana,51,GHA,Châu Phi
+2026,RO,Romania,51,ROU,Châu Âu
+2026,GR,Greece,50,GRC,Châu Âu
+2026,JP,Japan,50,JPN,Châu Á
+2026,OM,Oman,50,OMN,Châu Á
+2026,BR,Brazil,49,BRA,Nam Mỹ
+2026,PT,Portugal,47,PRT,Châu Âu
+2026,IQ,Iraq,46,IRQ,Châu Á
+2026,EG,Egypt,45,EGY,Châu Phi
+2026,PL,Poland,45,POL,Châu Âu
+2026,HU,Hungary,39,HUN,Châu Âu
+2026,SE,Sweden,39,SWE,Châu Âu
+2026,IR,Iran,36,IRN,Châu Á
+2026,JO,Jordan,36,JOR,Châu Á
+2026,FI,Finland,35,FIN,Châu Âu
+2026,NL,Netherlands,35,NLD,Châu Âu
+2026,RS,Serbia,34,SRB,Châu Âu
+2026,CL,Chile,33,CHL,Nam Mỹ
+2026,CZ,Czechia,32,CZE,Châu Âu
+2026,IE,Ireland,32,IRL,Châu Âu
+2026,DZ,Algeria,31,DZA,Châu Phi
+2026,FR,France,31,FRA,Châu Âu
+2026,LY,Libya,31,LBY,Châu Phi
+2026,BG,Bulgaria,29,BGR,Châu Âu
+2026,SG,Singapore,29,SGP,Châu Á
+2026,NO,Norway,26,NOR,Châu Âu
+2026,IL,Israel,25,ISR,Châu Á
+2026,MO,Macao,25,MAC,Châu Á
+2026,AZ,Azerbaijan,23,AZE,Châu Á
+2026,LK,Sri Lanka,23,LKA,Châu Á
+2026,SK,Slovakia,23,SVK,Châu Âu
+2026,AR,Argentina,22,ARG,Nam Mỹ
+2026,DK,Denmark,21,DNK,Châu Âu
+2026,AT,Austria,20,AUT,Châu Âu
+2026,HR,Croatia,20,HRV,Châu Âu
+2026,QA,Qatar,20,QAT,Châu Á
+2026,TZ,Tanzania,20,TZA,Châu Phi
+2026,UG,Uganda,20,UGA,Châu Phi
+2026,KE,Kenya,19,KEN,Châu Phi
+2026,KW,Kuwait,19,KWT,Châu Á
+2026,CH,Switzerland,18,CHE,Châu Âu
+2026,NZ,New Zealand,18,NZL,Châu Đại Dương
+2026,PS,Palestine,18,PSE,Châu Á
+2026,SI,Slovenia,18,SVN,Châu Âu
+2026,NP,Nepal,17,NPL,Châu Á
+2026,CY,Cyprus,16,CYP,Châu Á
+2026,LB,Lebanon,15,LBN,Châu Á
+2026,ZW,Zimbabwe,15,ZWE,Châu Phi
+2026,LT,Lithuania,14,LTU,Châu Âu
+2026,YE,Yemen,14,YEM,Châu Á
+2026,AF,Afghanistan,12,AFG,Châu Á
+2026,BE,Belgium,12,BEL,Châu Âu
+2026,KG,Kyrgyzstan,12,KGZ,Châu Á
+2026,LV,Latvia,12,LVA,Châu Âu
+2026,VE,Venezuela,12,VEN,Nam Mỹ
+2026,CR,Costa Rica,11,CRI,Bắc Mỹ
+2026,ET,Ethiopia,11,ETH,Châu Phi
+2026,GE,Georgia,11,GEO,Châu Á
+2026,BO,Bolivia,10,BOL,Nam Mỹ
+2026,KH,Cambodia,10,KHM,Châu Á
+2026,TN,Tunisia,9,TUN,Châu Phi
+2026,MT,Malta,8,MLT,Châu Âu
+2026,SO,Somalia,8,SOM,Châu Phi
+2026,XK,Kosovo,8,XKX,Châu Âu
+2026,ZM,Zambia,8,ZMB,Châu Phi
+2026,BH,Bahrain,7,BHR,Châu Á
+2026,BW,Botswana,7,BWA,Châu Phi
+2026,EE,Estonia,7,EST,Châu Âu
+2026,SD,Sudan,7,SDN,Châu Phi
+2026,UY,Uruguay,7,URY,Nam Mỹ
+2026,AM,Armenia,6,ARM,Châu Á
+2026,MK,North Macedonia,6,MKD,Châu Âu
+2026,PA,Panama,6,PAN,Bắc Mỹ
+2026,RW,Rwanda,6,RWA,Châu Phi
+2026,BN,Brunei,5,BRN,Châu Á
+2026,BY,Belarus,5,BLR,Châu Âu
+2026,DO,Dominican Rep.,5,DOM,Bắc Mỹ
+2026,JM,Jamaica,5,JAM,Bắc Mỹ
+2026,MW,Malawi,5,MWI,Châu Phi
+2026,SY,Syria,5,SYR,Châu Á
+2026,TT,Trinidad & Tobago,5,TTO,Bắc Mỹ
+2026,AL,Albania,4,ALB,Châu Âu
+2026,BB,Barbados,4,BRB,Bắc Mỹ
+2026,CD,DR Congo,4,COD,Châu Phi
+2026,CU,Cuba,4,CUB,Bắc Mỹ
+2026,FJ,Fiji,4,FJI,Châu Đại Dương
+2026,MN,Mongolia,4,MNG,Châu Á
+2026,MU,Mauritius,4,MUS,Châu Phi
+2026,NI,Nicaragua,4,NIC,Bắc Mỹ
+2026,PR,Puerto Rico,4,PRI,Bắc Mỹ
+2026,SZ,Eswatini,4,SWZ,Châu Phi
+2026,CI,Ivory Coast,3,CIV,Châu Phi
+2026,HN,Honduras,3,HND,Bắc Mỹ
+2026,MD,Moldova,3,MDA,Châu Âu
+2026,NA,Namibia,3,NAM,Châu Phi
+2026,SV,El Salvador,3,SLV,Bắc Mỹ
+2026,BA,Bosnia & Herzegovina,2,BIH,Châu Âu
+2026,BJ,Benin,2,BEN,Châu Phi
+2026,BS,Bahamas,2,BHS,Bắc Mỹ
+2026,GY,Guyana,2,GUY,Nam Mỹ
+2026,MZ,Mozambique,2,MOZ,Châu Phi
+2026,AO,Angola,1,AGO,Châu Phi
+2026,CM,Cameroon,1,CMR,Châu Phi
+2026,GD,Grenada,1,GRD,Bắc Mỹ
+2026,GM,Gambia,1,GMB,Châu Phi
+2026,GN,Guinea,1,GIN,Châu Phi
+2026,GP,Guadeloupe,1,GLP,Bắc Mỹ
+2026,GT,Guatemala,1,GTM,Bắc Mỹ
+2026,KM,Comoros,1,COM,Châu Phi
+2026,LA,Laos,1,LAO,Châu Á
+2026,LI,Liechtenstein,1,LIE,Châu Âu
+2026,LS,Lesotho,1,LSO,Châu Phi
+2026,LU,Luxembourg,1,LUX,Châu Âu
+2026,MV,Maldives,1,MDV,Châu Á
+2026,PG,Papua New Guinea,1,PNG,Châu Đại Dương
+2026,PY,Paraguay,1,PRY,Nam Mỹ
+2026,TJ,Tajikistan,1,TJK,Châu Á
+2026,TL,Timor-Leste,1,TLS,Châu Á
+2026,WS,Samoa,1,WSM,Châu Đại Dương

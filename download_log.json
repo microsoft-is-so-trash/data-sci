@@ -1,0 +1,12 @@
+{
+  "ngay_tai": "2026-10-23",
+  "filter": "primary_topic.id:T14414,title_and_abstract.search:\"higher education\" OR university,type:article|review|conference-paper,publication_year:2015-2026",
+  "count_api": 23712,
+  "so_dong_tai_ve": 23699,
+  "trung_id_da_loai": 154,
+  "so_bai": 23545,
+  "so_trang": 119,
+  "so_truong": 400,
+  "precision_F": 96.0,
+  "co_mau": 100
+}
