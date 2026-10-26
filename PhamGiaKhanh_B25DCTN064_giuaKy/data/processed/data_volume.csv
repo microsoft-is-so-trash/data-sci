@@ -1,0 +1,21 @@
+nhóm,chỉ số,giá trị
+Thu thập,Số bài OpenAlex báo khớp truy vấn (meta.count),23712
+Thu thập,Số trang đã tải bằng cursor (200 bài/trang),119
+Thu thập,Số dòng bài báo thô,23699
+Thu thập,Dung lượng dữ liệu thô trong data/raw (MB),161.8
+Thu thập,Trong đó 119 trang JSON bài báo (MB),161.6
+Làm sạch,Dòng trùng ID đã loại,154
+Làm sạch,Bài trùng DOI đã loại,5
+Làm sạch,Số bài sau làm sạch,23540
+Làm sạch,Tỷ lệ dòng thô bị loại (%),0.67
+Phạm vi,Khoảng thời gian,2015–2026
+Phạm vi,Số quốc gia có tác giả,165
+Phạm vi,Số trường/viện khác nhau (ID OpenAlex),7663
+Phạm vi,Số trường được tải thêm hồ sơ,400
+Phạm vi,Số tác giả khác nhau,49856
+Phạm vi,Số từ khoá khác nhau,22868
+Thiếu dữ liệu,Thiếu tóm tắt (%),10.4
+Thiếu dữ liệu,Không có quốc gia (%),26.6
+Thiếu dữ liệu,Thiếu nhãn ngôn ngữ (%),29.0
+Thiếu dữ liệu,Thiếu DOI (%),10.2
+Bảng dài,"Dòng (bài, quốc gia) / (bài, trường) / (bài, từ khoá)",20.820 / 28.224 / 217.262

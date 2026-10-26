@@ -4,7 +4,7 @@
     {
       "name": "dashboard",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/home/giakhanhpham/Downloads/raw_openalex/PhamGiaKhanh_MaSV_giuaKy"],
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/home/giakhanhpham/Downloads/raw_openalex/PhamGiaKhanh_B25DCTN064_giuaKy"],
       "port": 8765
     }
   ]
