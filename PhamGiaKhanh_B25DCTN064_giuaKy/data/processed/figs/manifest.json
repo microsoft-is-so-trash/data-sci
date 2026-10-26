@@ -82,5 +82,33 @@
     "file": "fig12.json",
     "title": "Từ khoá dịch từ 'educational technology', 'chatbots' (2015–2020) sang 'generative AI', 'ChatGPT': 'generative AI' có mặt trong 26% bài 2025–2026",
     "how": "Mỗi thanh là phần trăm số bài của giai đoạn có từ khoá đó (bỏ các từ chung như 'higher education'). Bấm ▶ hoặc kéo thanh giai đoạn để xem từ khoá thay đổi; thứ tự xếp theo giai đoạn 2025–2026."
+  },
+  {
+    "num": 13,
+    "section": "viet-nam",
+    "file": "fig13.json",
+    "title": "Việt Nam tăng từ 8,3‰ (2023) lên 13,8‰ số bài thế giới (2026), gần Thái Lan (12,5‰), trong khi Indonesia là 76,0‰",
+    "how": "Mỗi đường là số bài có tác giả của một nước trên mỗi 1.000 bài của cả thế giới trong năm (chuẩn hoá theo quy mô chung, nên năm 2026 chưa đủ năm vẫn so được). Bắt đầu từ 2022 vì các năm trước mỗi nước chỉ có vài bài. Số đếm lấy từ group_by của OpenAlex trên toàn bộ dữ liệu."
+  },
+  {
+    "num": 14,
+    "section": "viet-nam",
+    "file": "fig14.json",
+    "title": "Việt Nam hợp tác quốc tế ở 14% số bài, ngang thế giới (15%) nhưng chỉ bằng một nửa Thái Lan (28%); FWCI 4,21 chưa khác thế giới (3,93) một cách chắc chắn",
+    "how": "Mỗi cột là một chỉ số, mỗi thanh là một nước (đếm mọi bài có ít nhất một tác giả ở nước đó). FWCI là trích dẫn đã chuẩn hoá theo năm xuất bản và lĩnh vực (1 = trung bình thế giới); vạch đen là khoảng tin cậy bootstrap 95%, hai khoảng chồng lên nhau thì chưa đủ bằng chứng là khác nhau. 'Học về AI' là bài coi AI là nội dung cần dạy (AI literacy, năng lực, chương trình AI)."
+  },
+  {
+    "num": 15,
+    "section": "viet-nam",
+    "file": "fig15.json",
+    "title": "Nghiên cứu của Việt Nam nghiêng về 'Chấp nhận & thái độ' (54% so với 42% thế giới); 3/7 khác biệt có ý nghĩa thống kê",
+    "how": "Mỗi hàng là một nhóm chủ đề (gom từ từ khoá OpenAlex như biểu đồ ⑪, thêm nhóm 'Học về AI'). Chấm đen là tỷ lệ bài của cả thế giới, chấm cam là của Việt Nam; một bài có thể thuộc nhiều chủ đề. Dấu * đánh dấu khác biệt có ý nghĩa (kiểm định z hai tỷ lệ, Việt Nam so với phần còn lại, p < 0,05). Với 285 bài, chênh dưới khoảng 6 điểm % thường chưa đủ chắc chắn."
+  },
+  {
+    "num": 16,
+    "section": "viet-nam",
+    "file": "fig16.json",
+    "title": "95 trường/viện Việt Nam có bài; dẫn đầu là FPT University (34 bài) và Vietnam National University, Hanoi (28 bài)",
+    "how": "Mỗi thanh là số bài có ít nhất một tác giả thuộc trường, đếm theo ID cơ sở của OpenAlex, nên trường thành viên (ví dụ VNU University of Education) được tính riêng với ĐHQG Hà Nội. Ba trường đầu cùng góp mặt trong 23% số bài của Việt Nam. Rê chuột để xem tỷ lệ."
   }
 ]

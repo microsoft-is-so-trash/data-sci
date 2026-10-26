@@ -8,5 +8,5 @@ pycountry==26.2.16
 jupyter
 nbconvert==7.17.2
 ipykernel==7.4.0
-# Chỉ cần cho notebook tải dữ liệu trên Kaggle (Phần A–C):
-requests
+# Chỉ cần cho bước thu thập (collect_openalex.py):
+requests==2.34.2

@@ -1,0 +1,516 @@
+{
+  "download_date": "2026-10-23",
+  "filter": "primary_topic.id:T14414,title_and_abstract.search:\"higher education\" OR university,type:article|review|conference-paper,publication_year:2015-2026",
+  "api_count": 23712,
+  "n_clean": 23540,
+  "n_countries": 165,
+  "n_institutions": 400,
+  "n_edges": 70,
+  "min_coauth": 10,
+  "precision": 96,
+  "precision_margin": 3.8,
+  "precision_k": 100,
+  "count_2022": 218,
+  "count_2025": 8078,
+  "count_2026": 10175,
+  "mult_2025_2022": 37.1,
+  "share_2023_on": 97.1,
+  "cagr_2018_2022": 57,
+  "cagr_2022_2025": 233,
+  "yoy_std": 134,
+  "yoy": {
+    "2019": 116.7,
+    "2020": 66.7,
+    "2021": 50.8,
+    "2022": 11.2,
+    "2023": 399.5,
+    "2024": 238.5,
+    "2025": 119.2
+  },
+  "rolling_2022_12": 22,
+  "rolling_last": 920,
+  "last_month": "09/2026",
+  "asia_2019": 43.4,
+  "asia_2026": 53.3,
+  "europe_2019": 30.2,
+  "europe_2026": 19.9,
+  "na_2019": 13.2,
+  "na_2026": 10.9,
+  "top3_2025": [
+    [
+      "Trung Quốc",
+      822
+    ],
+    [
+      "Indonesia",
+      613
+    ],
+    [
+      "Hoa Kỳ",
+      479
+    ]
+  ],
+  "vn_2025": 92,
+  "vn_2022": 1,
+  "vn_rank_2025": 21,
+  "cited_pre": 71.8,
+  "cited_post": 34.4,
+  "top_first": [
+    "educational technology",
+    "chatbots"
+  ],
+  "top_last": [
+    "generative AI",
+    "ChatGPT"
+  ],
+  "top_last_share": 26.3,
+  "vn_total": 285,
+  "intl_share": 15.0,
+  "hub": "Trung Quốc",
+  "hub_degree": 14,
+  "genai_share": 53.4,
+  "genai_post": 99.2,
+  "rising_kw": "AI literacy",
+  "rising_pct": 90.0,
+  "fading_kw": "ChatGPT",
+  "fading_pct": 68.1,
+  "recent_avg": 76.9,
+  "theme_papers": {
+    "Giảng dạy, đánh giá & chương trình": 14242,
+    "AI tạo sinh & LLM": 12573,
+    "Đạo đức, liêm chính & quản trị": 10884,
+    "Chấp nhận & thái độ": 9973,
+    "Năng lực & kỹ năng": 9181,
+    "Cá nhân hoá & hệ thống thông minh": 5131
+  },
+  "chatgpt_2324": 33.5,
+  "chatgpt_last": 18.8,
+  "integrity_last": 14.5,
+  "slope": 1.54,
+  "r2": 0.25,
+  "zero_cites": 64.5,
+  "boot": {
+    "citations_per_year": {
+      "truoc": 7.558684287812041,
+      "sau": 2.8945872085393063,
+      "chenh": -4.664097079272735,
+      "ci_low": -8.60648943648122,
+      "ci_high": -2.1391546053347934
+    },
+    "fwci": {
+      "truoc": 3.7696772393538915,
+      "sau": 3.9375703049127257,
+      "chenh": 0.1678930655588342,
+      "ci_low": -0.7069305922081923,
+      "ci_high": 1.0267710837303425
+    }
+  },
+  "missing_country": 26.6,
+  "missing_lang": 29.0,
+  "non_en_known": 6.6,
+  "missing_abstract": 10.4,
+  "volume": [
+    {
+      "nhóm": "Thu thập",
+      "chỉ số": "Số bài OpenAlex báo khớp truy vấn (meta.count)",
+      "giá trị": 23712
+    },
+    {
+      "nhóm": "Thu thập",
+      "chỉ số": "Số trang đã tải bằng cursor (200 bài/trang)",
+      "giá trị": 119
+    },
+    {
+      "nhóm": "Thu thập",
+      "chỉ số": "Số dòng bài báo thô",
+      "giá trị": 23699
+    },
+    {
+      "nhóm": "Thu thập",
+      "chỉ số": "Dung lượng dữ liệu thô trong data/raw (MB)",
+      "giá trị": 161.8
+    },
+    {
+      "nhóm": "Thu thập",
+      "chỉ số": "Trong đó 119 trang JSON bài báo (MB)",
+      "giá trị": 161.6
+    },
+    {
+      "nhóm": "Làm sạch",
+      "chỉ số": "Dòng trùng ID đã loại",
+      "giá trị": 154
+    },
+    {
+      "nhóm": "Làm sạch",
+      "chỉ số": "Bài trùng DOI đã loại",
+      "giá trị": 5
+    },
+    {
+      "nhóm": "Làm sạch",
+      "chỉ số": "Số bài sau làm sạch",
+      "giá trị": 23540
+    },
+    {
+      "nhóm": "Làm sạch",
+      "chỉ số": "Tỷ lệ dòng thô bị loại (%)",
+      "giá trị": 0.67
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Khoảng thời gian",
+      "giá trị": "2015–2026"
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Số quốc gia có tác giả",
+      "giá trị": 165
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Số trường/viện khác nhau (ID OpenAlex)",
+      "giá trị": 7663
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Số trường được tải thêm hồ sơ",
+      "giá trị": 400
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Số tác giả khác nhau",
+      "giá trị": 49856
+    },
+    {
+      "nhóm": "Phạm vi",
+      "chỉ số": "Số từ khoá khác nhau",
+      "giá trị": 22868
+    },
+    {
+      "nhóm": "Thiếu dữ liệu",
+      "chỉ số": "Thiếu tóm tắt (%)",
+      "giá trị": 10.4
+    },
+    {
+      "nhóm": "Thiếu dữ liệu",
+      "chỉ số": "Không có quốc gia (%)",
+      "giá trị": 26.6
+    },
+    {
+      "nhóm": "Thiếu dữ liệu",
+      "chỉ số": "Thiếu nhãn ngôn ngữ (%)",
+      "giá trị": 29.0
+    },
+    {
+      "nhóm": "Thiếu dữ liệu",
+      "chỉ số": "Thiếu DOI (%)",
+      "giá trị": 10.2
+    },
+    {
+      "nhóm": "Bảng dài",
+      "chỉ số": "Dòng (bài, quốc gia) / (bài, trường) / (bài, từ khoá)",
+      "giá trị": "20.820 / 28.224 / 217.262"
+    }
+  ],
+  "vn": {
+    "n": 285,
+    "per1000_all": 12.1,
+    "by_year": {
+      "2018": 2,
+      "2020": 1,
+      "2022": 1,
+      "2023": 9,
+      "2024": 40,
+      "2025": 92,
+      "2026": 140
+    },
+    "per1000": {
+      "VN": {
+        "2022": 4.59,
+        "2023": 8.26,
+        "2024": 10.85,
+        "2025": 11.39,
+        "2026": 13.76
+      },
+      "TH": {
+        "2022": 27.52,
+        "2023": 13.77,
+        "2024": 7.6,
+        "2025": 12.75,
+        "2026": 12.48
+      },
+      "MY": {
+        "2022": 22.94,
+        "2023": 29.38,
+        "2024": 23.87,
+        "2025": 32.19,
+        "2026": 35.09
+      },
+      "ID": {
+        "2022": 41.28,
+        "2023": 58.77,
+        "2024": 62.67,
+        "2025": 75.89,
+        "2026": 75.97
+      },
+      "CN": {
+        "2022": 160.55,
+        "2023": 80.81,
+        "2024": 91.7,
+        "2025": 101.76,
+        "2026": 85.6
+      },
+      "US": {
+        "2022": 50.46,
+        "2023": 75.3,
+        "2024": 74.34,
+        "2025": 59.3,
+        "2026": 67.13
+      }
+    },
+    "rank": {
+      "2023": 34,
+      "2024": 25,
+      "2025": 21,
+      "2026": 17
+    },
+    "cagr_2023_2025": {
+      "VN": 220,
+      "TH": 162,
+      "MY": 185,
+      "ID": 209,
+      "CN": 206,
+      "US": 142,
+      "WORLD": 172
+    },
+    "compare": {
+      "VN": {
+        "so_bai": 285,
+        "hop_tac_quoc_te_%": 13.7,
+        "fwci_tb": 4.21,
+        "fwci_ci_low": 2.66,
+        "fwci_ci_high": 6.13,
+        "co_trich_dan_%": 40.4,
+        "bai_2025_2026_%": 81.4,
+        "hoc_ve_ai_%": 17.2,
+        "truy_cap_mo_%": 78.9
+      },
+      "TH": {
+        "so_bai": 280,
+        "hop_tac_quoc_te_%": 27.5,
+        "fwci_tb": 3.64,
+        "fwci_ci_low": 2.57,
+        "fwci_ci_high": 4.93,
+        "co_trich_dan_%": 31.8,
+        "bai_2025_2026_%": 80.7,
+        "hoc_ve_ai_%": 18.9,
+        "truy_cap_mo_%": 89.6
+      },
+      "MY": {
+        "so_bai": 742,
+        "hop_tac_quoc_te_%": 46.6,
+        "fwci_tb": 5.22,
+        "fwci_ci_low": 3.82,
+        "fwci_ci_high": 6.77,
+        "co_trich_dan_%": 39.9,
+        "bai_2025_2026_%": 82.6,
+        "hoc_ve_ai_%": 16.3,
+        "truy_cap_mo_%": 82.5
+      },
+      "ID": {
+        "so_bai": 1682,
+        "hop_tac_quoc_te_%": 16.0,
+        "fwci_tb": 1.77,
+        "fwci_ci_low": 1.37,
+        "fwci_ci_high": 2.26,
+        "co_trich_dan_%": 26.4,
+        "bai_2025_2026_%": 81.8,
+        "hoc_ve_ai_%": 15.4,
+        "truy_cap_mo_%": 91.9
+      },
+      "CN": {
+        "so_bai": 2217,
+        "hop_tac_quoc_te_%": 23.0,
+        "fwci_tb": 6.54,
+        "fwci_ci_low": 5.71,
+        "fwci_ci_high": 7.43,
+        "co_trich_dan_%": 45.1,
+        "bai_2025_2026_%": 75.9,
+        "hoc_ve_ai_%": 11.9,
+        "truy_cap_mo_%": 69.2
+      },
+      "US": {
+        "so_bai": 1546,
+        "hop_tac_quoc_te_%": 25.1,
+        "fwci_tb": 7.75,
+        "fwci_ci_low": 6.61,
+        "fwci_ci_high": 8.93,
+        "co_trich_dan_%": 51.2,
+        "bai_2025_2026_%": 74.8,
+        "hoc_ve_ai_%": 17.5,
+        "truy_cap_mo_%": 69.0
+      },
+      "WORLD": {
+        "so_bai": 23540,
+        "hop_tac_quoc_te_%": 15.0,
+        "fwci_tb": 3.93,
+        "fwci_ci_low": 3.73,
+        "fwci_ci_high": 4.14,
+        "co_trich_dan_%": 35.5,
+        "bai_2025_2026_%": 76.9,
+        "hoc_ve_ai_%": 13.9,
+        "truy_cap_mo_%": 77.3
+      }
+    },
+    "names": {
+      "VN": "Việt Nam",
+      "MY": "Malaysia",
+      "ID": "Indonesia",
+      "CN": "Trung Quốc",
+      "US": "Hoa Kỳ",
+      "TH": "Thái Lan",
+      "WORLD": "Thế giới"
+    },
+    "themes": {
+      "Học về AI (năng lực, chương trình)": {
+        "viet_nam_%": 17.2,
+        "the_gioi_%": 13.9,
+        "p_value": 0.1025,
+        "co_y_nghia": false
+      },
+      "Cá nhân hoá & hệ thống thông minh": {
+        "viet_nam_%": 19.6,
+        "the_gioi_%": 21.8,
+        "p_value": 0.3769,
+        "co_y_nghia": false
+      },
+      "Năng lực & kỹ năng": {
+        "viet_nam_%": 38.6,
+        "the_gioi_%": 39.0,
+        "p_value": 0.8878,
+        "co_y_nghia": false
+      },
+      "Đạo đức, liêm chính & quản trị": {
+        "viet_nam_%": 47.0,
+        "the_gioi_%": 46.2,
+        "p_value": 0.7901,
+        "co_y_nghia": false
+      },
+      "Chấp nhận & thái độ": {
+        "viet_nam_%": 54.4,
+        "the_gioi_%": 42.4,
+        "p_value": 0.0,
+        "co_y_nghia": true
+      },
+      "AI tạo sinh & LLM": {
+        "viet_nam_%": 64.9,
+        "the_gioi_%": 53.4,
+        "p_value": 0.0001,
+        "co_y_nghia": true
+      },
+      "Giảng dạy, đánh giá & chương trình": {
+        "viet_nam_%": 68.1,
+        "the_gioi_%": 60.5,
+        "p_value": 0.0085,
+        "co_y_nghia": true
+      }
+    },
+    "lift_top": [
+      [
+        "English majors",
+        18,
+        6.32,
+        0.23
+      ],
+      [
+        "English language learning",
+        10,
+        3.51,
+        0.78
+      ],
+      [
+        "artificial intelligence in language teaching",
+        14,
+        4.91,
+        1.33
+      ],
+      [
+        "institutional support",
+        11,
+        3.86,
+        1.05
+      ],
+      [
+        "writing skills",
+        10,
+        3.51,
+        0.99
+      ]
+    ],
+    "partners": [
+      [
+        "AU",
+        13
+      ],
+      [
+        "GB",
+        8
+      ],
+      [
+        "SG",
+        4
+      ],
+      [
+        "US",
+        4
+      ],
+      [
+        "IN",
+        3
+      ]
+    ],
+    "n_intl": 39,
+    "n_inst": 95,
+    "top_inst": [
+      [
+        "FPT University",
+        34
+      ],
+      [
+        "Vietnam National University, Hanoi",
+        28
+      ],
+      [
+        "VNU University of Education",
+        14
+      ],
+      [
+        "British University Vietnam",
+        13
+      ],
+      [
+        "University of Languages and International Studies",
+        13
+      ]
+    ],
+    "top3_share": 22.8,
+    "about_ai_world": 13.9,
+    "about_ai_n": 3265,
+    "about_ai_explicit": 94.1,
+    "about_ai_explicit_rest": 46.0,
+    "prec_k": 3,
+    "prec_ok": 3,
+    "lang": {
+      "en": 178,
+      "thiếu nhãn": 96,
+      "vi": 5,
+      "ang": 4,
+      "ru": 1,
+      "ca": 1
+    },
+    "type": {
+      "article": 220,
+      "conference-paper": 57,
+      "review": 8
+    }
+  }
+}

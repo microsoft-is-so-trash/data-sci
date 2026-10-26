@@ -1,0 +1,31 @@
+year,country,tren_1000_bai,so_bai,ten
+2022,VN,4.59,1.0,Việt Nam
+2023,VN,8.26,9.0,Việt Nam
+2024,VN,10.85,40.0,Việt Nam
+2025,VN,11.39,92.0,Việt Nam
+2026,VN,13.76,140.0,Việt Nam
+2022,TH,27.52,6.0,Thái Lan
+2023,TH,13.77,15.0,Thái Lan
+2024,TH,7.6,28.0,Thái Lan
+2025,TH,12.75,103.0,Thái Lan
+2026,TH,12.48,127.0,Thái Lan
+2022,MY,22.94,5.0,Malaysia
+2023,MY,29.38,32.0,Malaysia
+2024,MY,23.87,88.0,Malaysia
+2025,MY,32.19,260.0,Malaysia
+2026,MY,35.09,357.0,Malaysia
+2022,ID,41.28,9.0,Indonesia
+2023,ID,58.77,64.0,Indonesia
+2024,ID,62.67,231.0,Indonesia
+2025,ID,75.89,613.0,Indonesia
+2026,ID,75.97,773.0,Indonesia
+2022,CN,160.55,35.0,Trung Quốc
+2023,CN,80.81,88.0,Trung Quốc
+2024,CN,91.7,338.0,Trung Quốc
+2025,CN,101.76,822.0,Trung Quốc
+2026,CN,85.6,871.0,Trung Quốc
+2022,US,50.46,11.0,Hoa Kỳ
+2023,US,75.3,82.0,Hoa Kỳ
+2024,US,74.34,274.0,Hoa Kỳ
+2025,US,59.3,479.0,Hoa Kỳ
+2026,US,67.13,683.0,Hoa Kỳ
